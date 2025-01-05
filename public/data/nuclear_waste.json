@@ -1,0 +1,219 @@
+[
+    {
+      "Country": "United Kigdom",
+      "Discharged %": 15.8,
+      "Reprocessed %": 50,
+      "Discharged tHM": 67592.4,
+      "Reprocessed tHM": 63250
+    },
+    {
+      "Country": "Switerland",
+      "Discharged %": 1.3,
+      "Reprocessed %": 0.9,
+      "Discharged tHM": 5561.4,
+      "Reprocessed tHM": 1138.5
+    },
+    {
+      "Country": "Netherlands",
+      "Discharged %": 0.1,
+      "Reprocessed %": 0.4,
+      "Discharged tHM": 427.8,
+      "Reprocessed tHM": 506
+    },
+    {
+      "Country": "Germany",
+      "Discharged %": 3.7,
+      "Reprocessed %": 5.2,
+      "Discharged tHM": 15828.6,
+      "Reprocessed tHM": 6578
+    },
+    {
+      "Country": "Sweden",
+      "Discharged %": 1.8,
+      "Reprocessed %": 0.4,
+      "Discharged tHM": 7700.4,
+      "Reprocessed tHM": 506
+    },
+    {
+      "Country": "Spain",
+      "Discharged %": 1.7,
+      "Reprocessed %": 1.5,
+      "Discharged tHM": 7272.6,
+      "Reprocessed tHM": 1897.5
+    },
+    {
+      "Country": "Italy",
+      "Discharged %": 0.4,
+      "Reprocessed %": 1.5,
+      "Discharged tHM": 1711.2,
+      "Reprocessed tHM": 1897.5
+    },
+    {
+      "Country": "France",
+      "Discharged %": 11.6,
+      "Reprocessed %": 28,
+      "Discharged tHM": 49624.8,
+      "Reprocessed tHM": 35420
+    },
+    {
+      "Country": "Finland",
+      "Discharged %": 0.6,
+      "Reprocessed %": 0.3,
+      "Discharged tHM": 2566.8,
+      "Reprocessed tHM": 379.5
+    },
+    {
+      "Country": "Belgium",
+      "Discharged %": 1,
+      "Reprocessed %": 0.5,
+      "Discharged tHM": 4278,
+      "Reprocessed tHM": 632.5
+    },
+    {
+      "Country": "South Africa",
+      "Discharged %": 0.3,
+      "Reprocessed %": "",
+      "Discharged tHM": 1283.4,
+      "Reprocessed tHM": ""
+    },
+    {
+      "Country": "Armenia",
+      "Discharged %": 0.1,
+      "Reprocessed %": 0.2,
+      "Discharged tHM": 427.8,
+      "Reprocessed tHM": 253
+    },
+    {
+      "Country": "Bulgaria",
+      "Discharged %": 0.5,
+      "Reprocessed %": 0.8,
+      "Discharged tHM": 2139,
+      "Reprocessed tHM": 1012
+    },
+    {
+      "Country": "Czech Republic",
+      "Discharged %": 0.5,
+      "Reprocessed %": 0.1,
+      "Discharged tHM": 2139,
+      "Reprocessed tHM": 126.5
+    },
+    {
+      "Country": "Hungary",
+      "Discharged %": 0.4,
+      "Reprocessed %": 0.2,
+      "Discharged tHM": 1711.2,
+      "Reprocessed tHM": 253
+    },
+    {
+      "Country": "Kazakhstan",
+      "Discharged %": 0.1,
+      "Reprocessed %": 0.1,
+      "Discharged tHM": 427.8,
+      "Reprocessed tHM": 126.5
+    },
+    {
+      "Country": "Lithuania",
+      "Discharged %": 0.6,
+      "Reprocessed %": "",
+      "Discharged tHM": 2566.8,
+      "Reprocessed tHM": ""
+    },
+    {
+      "Country": "Romania",
+      "Discharged %": 0.8,
+      "Reprocessed %": "",
+      "Discharged tHM": 3422.4,
+      "Reprocessed tHM": ""
+    },
+    {
+      "Country": "Russia",
+      "Discharged %": 6.6,
+      "Reprocessed %": 2.7,
+      "Discharged tHM": 28234.8,
+      "Reprocessed tHM": 3415.5
+    },
+    {
+      "Country": "Slovakia",
+      "Discharged %": 0.4,
+      "Reprocessed %": 0.1,
+      "Discharged tHM": 1711.2,
+      "Reprocessed tHM": 126.5
+    },
+    {
+      "Country": "Slovenia",
+      "Discharged %": 0.1,
+      "Reprocessed %": "",
+      "Discharged tHM": 427.8,
+      "Reprocessed tHM": ""
+    },
+    {
+      "Country": "Ukraine",
+      "Discharged %": 1.7,
+      "Reprocessed %": 0.6,
+      "Discharged tHM": 7272.6,
+      "Reprocessed tHM": 759
+    },
+    {
+      "Country": "Canada",
+      "Discharged %": 13.8,
+      "Reprocessed %": "",
+      "Discharged tHM": 59036.4,
+      "Reprocessed tHM": ""
+    },
+    {
+      "Country": "United States",
+      "Discharged %": 19.7,
+      "Reprocessed %": "",
+      "Discharged tHM": 67592.4,
+      "Reprocessed tHM": ""
+    },
+    {
+      "Country": "Mexico",
+      "Discharged %": 0.1,
+      "Reprocessed %": "",
+      "Discharged tHM": 427.8,
+      "Reprocessed tHM": ""
+    },
+    {
+      "Country": "Brazil",
+      "Discharged %": 0.2,
+      "Reprocessed %": "",
+      "Discharged tHM": 855.6,
+      "Reprocessed tHM": ""
+    },
+    {
+      "Country": "Argentina",
+      "Discharged %": 1.2,
+      "Reprocessed %": "",
+      "Discharged tHM": 5133.6,
+      "Reprocessed tHM": ""
+    },
+    {
+      "Country": "Japan",
+      "Discharged %": 6.4,
+      "Reprocessed %": 6.5,
+      "Discharged tHM": 27379.2,
+      "Reprocessed tHM": 8222.5
+    },
+    {
+      "Country": "China",
+      "Discharged %": 2.2,
+      "Reprocessed %": "",
+      "Discharged tHM": 9411.6,
+      "Reprocessed tHM": ""
+    },
+    {
+      "Country": "South Korea",
+      "Discharged %": 6.4,
+      "Reprocessed %": "",
+      "Discharged tHM": 27379.2,
+      "Reprocessed tHM": ""
+    },
+    {
+      "Country": "World",
+      "Discharged %": 100,
+      "Reprocessed %": 30,
+      "Discharged tHM": 427800,
+      "Reprocessed tHM": 126500
+    }
+  ]

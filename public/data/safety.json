@@ -1,0 +1,50 @@
+[
+    {
+      "Type": "Biomass",
+      "Year": 2021,
+      "Deaths per TWh of electricity production": 4.63,
+      "tCO2e emissions per GWh of electricity over plant lifecycle": 230
+    },
+    {
+      "Type": "Coal",
+      "Year": 2021,
+      "Deaths per TWh of electricity production": 24.62,
+      "tCO2e emissions per GWh of electricity over plant lifecycle": 970
+    },
+    {
+      "Type": "Natural Gas",
+      "Year": 2021,
+      "Deaths per TWh of electricity production": 2.821,
+      "tCO2e emissions per GWh of electricity over plant lifecycle": 440
+    },
+    {
+      "Type": "Hydropower",
+      "Year": 2021,
+      "Deaths per TWh of electricity production": 1.3,
+      "tCO2e emissions per GWh of electricity over plant lifecycle": 24
+    },
+    {
+      "Type": "Nuclear",
+      "Year": 2021,
+      "Deaths per TWh of electricity production": 0.03,
+      "tCO2e emissions per GWh of electricity over plant lifecycle": 6
+    },
+    {
+      "Type": "Oil",
+      "Year": 2021,
+      "Deaths per TWh of electricity production": 18.43,
+      "tCO2e emissions per GWh of electricity over plant lifecycle": 720
+    },
+    {
+      "Type": "Solar",
+      "Year": 2021,
+      "Deaths per TWh of electricity production": 0.019,
+      "tCO2e emissions per GWh of electricity over plant lifecycle": 8
+    },
+    {
+      "Type": "Wind",
+      "Year": 2021,
+      "Deaths per TWh of electricity production": 0.035,
+      "tCO2e emissions per GWh of electricity over plant lifecycle": 11
+    }
+  ]

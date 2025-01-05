@@ -1,0 +1,317 @@
+[
+    {
+        "Country":"ARGENTINA",
+        "Operation Units":3.0,
+        "Operation Capacity (MW)":1641.0,
+        "Suspended Units":0,
+        "Suspended Capacity (MW)":0,
+        "Under Construction Units":1.0,
+        "Under Construction Capacity (MW)":25.0
+    },
+    {
+        "Country":"ARMENIA",
+        "Operation Units":1.0,
+        "Operation Capacity (MW)":416.0,
+        "Suspended Units":0,
+        "Suspended Capacity (MW)":0,
+        "Under Construction Units":0,
+        "Under Construction Capacity (MW)":0
+    },
+    {
+        "Country":"BANGLADESH",
+        "Operation Units":0,
+        "Operation Capacity (MW)":0,
+        "Suspended Units":0,
+        "Suspended Capacity (MW)":0,
+        "Under Construction Units":2.0,
+        "Under Construction Capacity (MW)":2160.0
+    },
+    {
+        "Country":"BELARUS",
+        "Operation Units":2.0,
+        "Operation Capacity (MW)":2220.0,
+        "Suspended Units":0,
+        "Suspended Capacity (MW)":0,
+        "Under Construction Units":0,
+        "Under Construction Capacity (MW)":0
+    },
+    {
+        "Country":"BELGIUM",
+        "Operation Units":5.0,
+        "Operation Capacity (MW)":3908.0,
+        "Suspended Units":0,
+        "Suspended Capacity (MW)":0,
+        "Under Construction Units":0,
+        "Under Construction Capacity (MW)":0
+    },
+    {
+        "Country":"BRAZIL",
+        "Operation Units":2.0,
+        "Operation Capacity (MW)":1884.0,
+        "Suspended Units":0,
+        "Suspended Capacity (MW)":0,
+        "Under Construction Units":1.0,
+        "Under Construction Capacity (MW)":1340.0
+    },
+    {
+        "Country":"BULGARIA",
+        "Operation Units":2.0,
+        "Operation Capacity (MW)":2006.0,
+        "Suspended Units":0,
+        "Suspended Capacity (MW)":0,
+        "Under Construction Units":0,
+        "Under Construction Capacity (MW)":0
+    },
+    {
+        "Country":"CANADA",
+        "Operation Units":19.0,
+        "Operation Capacity (MW)":13699.0,
+        "Suspended Units":0,
+        "Suspended Capacity (MW)":0,
+        "Under Construction Units":0,
+        "Under Construction Capacity (MW)":0
+    },
+    {
+        "Country":"CHINA",
+        "Operation Units":55.0,
+        "Operation Capacity (MW)":53152.0,
+        "Suspended Units":0,
+        "Suspended Capacity (MW)":0,
+        "Under Construction Units":24.0,
+        "Under Construction Capacity (MW)":24948.0
+    },
+    {
+        "Country":"CZECH REPUBLIC",
+        "Operation Units":6.0,
+        "Operation Capacity (MW)":3934.0,
+        "Suspended Units":0,
+        "Suspended Capacity (MW)":0,
+        "Under Construction Units":0,
+        "Under Construction Capacity (MW)":0
+    },
+    {
+        "Country":"EGYPT",
+        "Operation Units":0,
+        "Operation Capacity (MW)":0,
+        "Suspended Units":0,
+        "Suspended Capacity (MW)":0,
+        "Under Construction Units":3.0,
+        "Under Construction Capacity (MW)":3300.0
+    },
+    {
+        "Country":"FINLAND",
+        "Operation Units":5.0,
+        "Operation Capacity (MW)":4394.0,
+        "Suspended Units":0,
+        "Suspended Capacity (MW)":0,
+        "Under Construction Units":0,
+        "Under Construction Capacity (MW)":0
+    },
+    {
+        "Country":"FRANCE",
+        "Operation Units":56.0,
+        "Operation Capacity (MW)":61370.0,
+        "Suspended Units":0,
+        "Suspended Capacity (MW)":0,
+        "Under Construction Units":1.0,
+        "Under Construction Capacity (MW)":1630.0
+    },
+    {
+        "Country":"HUNGARY",
+        "Operation Units":4.0,
+        "Operation Capacity (MW)":1916.0,
+        "Suspended Units":0,
+        "Suspended Capacity (MW)":0,
+        "Under Construction Units":0,
+        "Under Construction Capacity (MW)":0
+    },
+    {
+        "Country":"INDIA",
+        "Operation Units":19.0,
+        "Operation Capacity (MW)":6290.0,
+        "Suspended Units":4.0,
+        "Suspended Capacity (MW)":639.0,
+        "Under Construction Units":8.0,
+        "Under Construction Capacity (MW)":6028.0
+    },
+    {
+        "Country":"IRAN",
+        "Operation Units":1.0,
+        "Operation Capacity (MW)":915.0,
+        "Suspended Units":0,
+        "Suspended Capacity (MW)":0,
+        "Under Construction Units":1.0,
+        "Under Construction Capacity (MW)":974.0
+    },
+    {
+        "Country":"JAPAN",
+        "Operation Units":12.0,
+        "Operation Capacity (MW)":11046.0,
+        "Suspended Units":21.0,
+        "Suspended Capacity (MW)":20633.0,
+        "Under Construction Units":2.0,
+        "Under Construction Capacity (MW)":2653.0
+    },
+    {
+        "Country":"SOUTH KOREA",
+        "Operation Units":26.0,
+        "Operation Capacity (MW)":25825.0,
+        "Suspended Units":0,
+        "Suspended Capacity (MW)":0,
+        "Under Construction Units":2.0,
+        "Under Construction Capacity (MW)":2680.0
+    },
+    {
+        "Country":"MEXICO",
+        "Operation Units":2.0,
+        "Operation Capacity (MW)":1552.0,
+        "Suspended Units":0,
+        "Suspended Capacity (MW)":0,
+        "Under Construction Units":0,
+        "Under Construction Capacity (MW)":0
+    },
+    {
+        "Country":"NETHERLANDS",
+        "Operation Units":1.0,
+        "Operation Capacity (MW)":482.0,
+        "Suspended Units":0,
+        "Suspended Capacity (MW)":0,
+        "Under Construction Units":0,
+        "Under Construction Capacity (MW)":0
+    },
+    {
+        "Country":"PAKISTAN",
+        "Operation Units":6.0,
+        "Operation Capacity (MW)":3262.0,
+        "Suspended Units":0,
+        "Suspended Capacity (MW)":0,
+        "Under Construction Units":0,
+        "Under Construction Capacity (MW)":0
+    },
+    {
+        "Country":"ROMANIA",
+        "Operation Units":2.0,
+        "Operation Capacity (MW)":1300.0,
+        "Suspended Units":0,
+        "Suspended Capacity (MW)":0,
+        "Under Construction Units":0,
+        "Under Construction Capacity (MW)":0
+    },
+    {
+        "Country":"RUSSIA",
+        "Operation Units":37.0,
+        "Operation Capacity (MW)":27727.0,
+        "Suspended Units":0,
+        "Suspended Capacity (MW)":0,
+        "Under Construction Units":3.0,
+        "Under Construction Capacity (MW)":2700.0
+    },
+    {
+        "Country":"SLOVAKIA",
+        "Operation Units":5.0,
+        "Operation Capacity (MW)":2308.0,
+        "Suspended Units":0,
+        "Suspended Capacity (MW)":0,
+        "Under Construction Units":1.0,
+        "Under Construction Capacity (MW)":440.0
+    },
+    {
+        "Country":"SLOVENIA",
+        "Operation Units":1.0,
+        "Operation Capacity (MW)":688.0,
+        "Suspended Units":0,
+        "Suspended Capacity (MW)":0,
+        "Under Construction Units":0,
+        "Under Construction Capacity (MW)":0
+    },
+    {
+        "Country":"SOUTH AFRICA",
+        "Operation Units":2.0,
+        "Operation Capacity (MW)":1854.0,
+        "Suspended Units":0,
+        "Suspended Capacity (MW)":0,
+        "Under Construction Units":0,
+        "Under Construction Capacity (MW)":0
+    },
+    {
+        "Country":"SPAIN",
+        "Operation Units":7.0,
+        "Operation Capacity (MW)":7123.0,
+        "Suspended Units":0,
+        "Suspended Capacity (MW)":0,
+        "Under Construction Units":0,
+        "Under Construction Capacity (MW)":0
+    },
+    {
+        "Country":"SWEDEN",
+        "Operation Units":6.0,
+        "Operation Capacity (MW)":6944.0,
+        "Suspended Units":0,
+        "Suspended Capacity (MW)":0,
+        "Under Construction Units":0,
+        "Under Construction Capacity (MW)":0
+    },
+    {
+        "Country":"SWITZERLAND",
+        "Operation Units":4.0,
+        "Operation Capacity (MW)":2973.0,
+        "Suspended Units":0,
+        "Suspended Capacity (MW)":0,
+        "Under Construction Units":0,
+        "Under Construction Capacity (MW)":0
+    },
+    {
+        "Country":"TURKIYE",
+        "Operation Units":0,
+        "Operation Capacity (MW)":0,
+        "Suspended Units":0,
+        "Suspended Capacity (MW)":0,
+        "Under Construction Units":4.0,
+        "Under Construction Capacity (MW)":4456.0
+    },
+    {
+        "Country":"UAE",
+        "Operation Units":3.0,
+        "Operation Capacity (MW)":4011.0,
+        "Suspended Units":0,
+        "Suspended Capacity (MW)":0,
+        "Under Construction Units":1.0,
+        "Under Construction Capacity (MW)":1310.0
+    },
+    {
+        "Country":"UK",
+        "Operation Units":9.0,
+        "Operation Capacity (MW)":5883.0,
+        "Suspended Units":0,
+        "Suspended Capacity (MW)":0,
+        "Under Construction Units":2.0,
+        "Under Construction Capacity (MW)":3260.0
+    },
+    {
+        "Country":"UKRAINE",
+        "Operation Units":15.0,
+        "Operation Capacity (MW)":13107.0,
+        "Suspended Units":0,
+        "Suspended Capacity (MW)":0,
+        "Under Construction Units":2.0,
+        "Under Construction Capacity (MW)":2070.0
+    },
+    {
+        "Country":"USA",
+        "Operation Units":93.0,
+        "Operation Capacity (MW)":95835.0,
+        "Suspended Units":0,
+        "Suspended Capacity (MW)":0,
+        "Under Construction Units":1.0,
+        "Under Construction Capacity (MW)":1117.0
+    },
+    {
+        "Country":"World",
+        "Operation Units":413.0,
+        "Operation Capacity (MW)":371539.0,
+        "Suspended Units":25.0,
+        "Suspended Capacity (MW)":21272.0,
+        "Under Construction Units":59.0,
+        "Under Construction Capacity (MW)":61091.0
+    }
+]

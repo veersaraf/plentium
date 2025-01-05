@@ -1,0 +1,61 @@
+@import "./tailwind.css";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --chart-1: 12 76% 61%;
+    --chart-2: 173 58% 39%;
+    --chart-3: 197 37% 24%;
+    --chart-4: 43 74% 66%;
+    --chart-5: 27 87% 67%;
+
+
+    --primary-text: #f4f4e4;
+    --secondary-text: #837e77;
+    --primary-chart-bg: #042f2e;
+    --secondary-chart-bg: #500724;
+    --tertiary-chart-bg: #172554;
+    --primary-radius: 5px;
+    --primary-border: white
+  }
+
+}
+
+* ::-webkit-scrollbar {
+  display: none;
+}
+
+* {
+  outline: none;
+}
+
+html {
+  @apply bg-[#0e0d0d]
+}
+
+@font-face {
+  font-family: "rajdhani-bold";
+  src: url("../assests/fonts/Rajdhani/Rajdhani-SemiBold.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "rajdhani-regular";
+  src: url("../assests/fonts/Rajdhani/Rajdhani-Regular.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "planer-m";
+  src: url("../assests/fonts/Planer/PlanerTest-Light-BF662b1a5e1e838.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "a1";
+  src: url("../assests/fonts/Alliance/A1.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "a2";
+  src: url("../assests/fonts/Alliance/A2.otf") format("opentype");
+}

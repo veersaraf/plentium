@@ -1,0 +1,1514 @@
+[
+  {
+    "Year": 1995,
+    "Country": "ARGENTINA",
+    "Units": 2.0,
+    "Capacity (MW)": 935.0
+  },
+  {
+    "Year": 2000,
+    "Country": "ARGENTINA",
+    "Units": 2.0,
+    "Capacity (MW)": 978.0
+  },
+  {
+    "Year": 2005,
+    "Country": "ARGENTINA",
+    "Units": 2.0,
+    "Capacity (MW)": 935.0
+  },
+  {
+    "Year": 2010,
+    "Country": "ARGENTINA",
+    "Units": 2.0,
+    "Capacity (MW)": 935.0
+  },
+  {
+    "Year": 2015,
+    "Country": "ARGENTINA",
+    "Units": 3.0,
+    "Capacity (MW)": 1632.0
+  },
+  {
+    "Year": 2020,
+    "Country": "ARGENTINA",
+    "Units": 3.0,
+    "Capacity (MW)": 1641.0
+  },
+  {
+    "Year": 2022,
+    "Country": "ARGENTINA",
+    "Units": 3.0,
+    "Capacity (MW)": 1641.0
+  },
+  {
+    "Year": 2023,
+    "Country": "ARGENTINA",
+    "Units": 3.0,
+    "Capacity (MW)": 1641.0
+  },
+  {
+    "Year": 1995,
+    "Country": "ARMENIA",
+    "Units": 1.0,
+    "Capacity (MW)": 376.0
+  },
+  {
+    "Year": 2000,
+    "Country": "ARMENIA",
+    "Units": 1.0,
+    "Capacity (MW)": 376.0
+  },
+  {
+    "Year": 2005,
+    "Country": "ARMENIA",
+    "Units": 1.0,
+    "Capacity (MW)": 376.0
+  },
+  {
+    "Year": 2010,
+    "Country": "ARMENIA",
+    "Units": 1.0,
+    "Capacity (MW)": 375.0
+  },
+  {
+    "Year": 2015,
+    "Country": "ARMENIA",
+    "Units": 1.0,
+    "Capacity (MW)": 375.0
+  },
+  {
+    "Year": 2020,
+    "Country": "ARMENIA",
+    "Units": 1.0,
+    "Capacity (MW)": 415.0
+  },
+  {
+    "Year": 2022,
+    "Country": "ARMENIA",
+    "Units": 1.0,
+    "Capacity (MW)": 416.0
+  },
+  {
+    "Year": 2023,
+    "Country": "ARMENIA",
+    "Units": 1.0,
+    "Capacity (MW)": 416.0
+  },
+  {
+    "Year": 2020,
+    "Country": "BELARUS",
+    "Units": 1.0,
+    "Capacity (MW)": 1110.0
+  },
+  {
+    "Year": 2022,
+    "Country": "BELARUS",
+    "Units": 1.0,
+    "Capacity (MW)": 1110.0
+  },
+  {
+    "Year": 2023,
+    "Country": "BELARUS",
+    "Units": 2.0,
+    "Capacity (MW)": 2220.0
+  },
+  {
+    "Year": 1995,
+    "Country": "BELGIUM",
+    "Units": 7.0,
+    "Capacity (MW)": 5631.0
+  },
+  {
+    "Year": 2000,
+    "Country": "BELGIUM",
+    "Units": 7.0,
+    "Capacity (MW)": 5712.0
+  },
+  {
+    "Year": 2005,
+    "Country": "BELGIUM",
+    "Units": 7.0,
+    "Capacity (MW)": 5801.0
+  },
+  {
+    "Year": 2010,
+    "Country": "BELGIUM",
+    "Units": 7.0,
+    "Capacity (MW)": 5926.0
+  },
+  {
+    "Year": 2015,
+    "Country": "BELGIUM",
+    "Units": 7.0,
+    "Capacity (MW)": 5913.0
+  },
+  {
+    "Year": 2020,
+    "Country": "BELGIUM",
+    "Units": 7.0,
+    "Capacity (MW)": 5942.0
+  },
+  {
+    "Year": 2022,
+    "Country": "BELGIUM",
+    "Units": 6.0,
+    "Capacity (MW)": 4936.0
+  },
+  {
+    "Year": 2023,
+    "Country": "BELGIUM",
+    "Units": 5.0,
+    "Capacity (MW)": 3908.0
+  },
+  {
+    "Year": 1995,
+    "Country": "BRAZIL",
+    "Units": 1.0,
+    "Capacity (MW)": 626.0
+  },
+  {
+    "Year": 2000,
+    "Country": "BRAZIL",
+    "Units": 2.0,
+    "Capacity (MW)": 1976.0
+  },
+  {
+    "Year": 2005,
+    "Country": "BRAZIL",
+    "Units": 2.0,
+    "Capacity (MW)": 1901.0
+  },
+  {
+    "Year": 2010,
+    "Country": "BRAZIL",
+    "Units": 2.0,
+    "Capacity (MW)": 1884.0
+  },
+  {
+    "Year": 2015,
+    "Country": "BRAZIL",
+    "Units": 2.0,
+    "Capacity (MW)": 1884.0
+  },
+  {
+    "Year": 2020,
+    "Country": "BRAZIL",
+    "Units": 2.0,
+    "Capacity (MW)": 1884.0
+  },
+  {
+    "Year": 2022,
+    "Country": "BRAZIL",
+    "Units": 2.0,
+    "Capacity (MW)": 1884.0
+  },
+  {
+    "Year": 2023,
+    "Country": "BRAZIL",
+    "Units": 2.0,
+    "Capacity (MW)": 1884.0
+  },
+  {
+    "Year": 1995,
+    "Country": "BULGARIA",
+    "Units": 6.0,
+    "Capacity (MW)": 3538.0
+  },
+  {
+    "Year": 2000,
+    "Country": "BULGARIA",
+    "Units": 6.0,
+    "Capacity (MW)": 3760.0
+  },
+  {
+    "Year": 2005,
+    "Country": "BULGARIA",
+    "Units": 4.0,
+    "Capacity (MW)": 2722.0
+  },
+  {
+    "Year": 2010,
+    "Country": "BULGARIA",
+    "Units": 2.0,
+    "Capacity (MW)": 1906.0
+  },
+  {
+    "Year": 2015,
+    "Country": "BULGARIA",
+    "Units": 2.0,
+    "Capacity (MW)": 1926.0
+  },
+  {
+    "Year": 2020,
+    "Country": "BULGARIA",
+    "Units": 2.0,
+    "Capacity (MW)": 2006.0
+  },
+  {
+    "Year": 2022,
+    "Country": "BULGARIA",
+    "Units": 2.0,
+    "Capacity (MW)": 2006.0
+  },
+  {
+    "Year": 2023,
+    "Country": "BULGARIA",
+    "Units": 2.0,
+    "Capacity (MW)": 2006.0
+  },
+  {
+    "Year": 1995,
+    "Country": "CANADA",
+    "Units": 21.0,
+    "Capacity (MW)": 14902.0
+  },
+  {
+    "Year": 2000,
+    "Country": "CANADA",
+    "Units": 14.0,
+    "Capacity (MW)": 9998.0
+  },
+  {
+    "Year": 2005,
+    "Country": "CANADA",
+    "Units": 18.0,
+    "Capacity (MW)": 12584.0
+  },
+  {
+    "Year": 2010,
+    "Country": "CANADA",
+    "Units": 18.0,
+    "Capacity (MW)": 12604.0
+  },
+  {
+    "Year": 2015,
+    "Country": "CANADA",
+    "Units": 19.0,
+    "Capacity (MW)": 13524.0
+  },
+  {
+    "Year": 2020,
+    "Country": "CANADA",
+    "Units": 19.0,
+    "Capacity (MW)": 13624.0
+  },
+  {
+    "Year": 2022,
+    "Country": "CANADA",
+    "Units": 19.0,
+    "Capacity (MW)": 13624.0
+  },
+  {
+    "Year": 2023,
+    "Country": "CANADA",
+    "Units": 19.0,
+    "Capacity (MW)": 13699.0
+  },
+  {
+    "Year": 1995,
+    "Country": "CHINA",
+    "Units": 3.0,
+    "Capacity (MW)": 2188.0
+  },
+  {
+    "Year": 2000,
+    "Country": "CHINA",
+    "Units": 3.0,
+    "Capacity (MW)": 2188.0
+  },
+  {
+    "Year": 2005,
+    "Country": "CHINA",
+    "Units": 9.0,
+    "Capacity (MW)": 6587.0
+  },
+  {
+    "Year": 2010,
+    "Country": "CHINA",
+    "Units": 13.0,
+    "Capacity (MW)": 10065.0
+  },
+  {
+    "Year": 2015,
+    "Country": "CHINA",
+    "Units": 30.0,
+    "Capacity (MW)": 26754.0
+  },
+  {
+    "Year": 2020,
+    "Country": "CHINA",
+    "Units": 49.0,
+    "Capacity (MW)": 47508.0
+  },
+  {
+    "Year": 2022,
+    "Country": "CHINA",
+    "Units": 54.0,
+    "Capacity (MW)": 52131.0
+  },
+  {
+    "Year": 2023,
+    "Country": "CHINA",
+    "Units": 55.0,
+    "Capacity (MW)": 53152.0
+  },
+  {
+    "Year": 1995,
+    "Country": "CZECH REPUBLIC",
+    "Units": 4.0,
+    "Capacity (MW)": 1782.0
+  },
+  {
+    "Year": 2000,
+    "Country": "CZECH REPUBLIC",
+    "Units": 5.0,
+    "Capacity (MW)": 2611.0
+  },
+  {
+    "Year": 2005,
+    "Country": "CZECH REPUBLIC",
+    "Units": 6.0,
+    "Capacity (MW)": 3373.0
+  },
+  {
+    "Year": 2010,
+    "Country": "CZECH REPUBLIC",
+    "Units": 6.0,
+    "Capacity (MW)": 3675.0
+  },
+  {
+    "Year": 2015,
+    "Country": "CZECH REPUBLIC",
+    "Units": 6.0,
+    "Capacity (MW)": 3930.0
+  },
+  {
+    "Year": 2020,
+    "Country": "CZECH REPUBLIC",
+    "Units": 6.0,
+    "Capacity (MW)": 3934.0
+  },
+  {
+    "Year": 2022,
+    "Country": "CZECH REPUBLIC",
+    "Units": 6.0,
+    "Capacity (MW)": 3934.0
+  },
+  {
+    "Year": 2023,
+    "Country": "CZECH REPUBLIC",
+    "Units": 6.0,
+    "Capacity (MW)": 3934.0
+  },
+  {
+    "Year": 1995,
+    "Country": "FINLAND",
+    "Units": 4.0,
+    "Capacity (MW)": 2310.0
+  },
+  {
+    "Year": 2000,
+    "Country": "FINLAND",
+    "Units": 4.0,
+    "Capacity (MW)": 2656.0
+  },
+  {
+    "Year": 2005,
+    "Country": "FINLAND",
+    "Units": 4.0,
+    "Capacity (MW)": 2676.0
+  },
+  {
+    "Year": 2010,
+    "Country": "FINLAND",
+    "Units": 4.0,
+    "Capacity (MW)": 2716.0
+  },
+  {
+    "Year": 2015,
+    "Country": "FINLAND",
+    "Units": 4.0,
+    "Capacity (MW)": 2752.0
+  },
+  {
+    "Year": 2020,
+    "Country": "FINLAND",
+    "Units": 4.0,
+    "Capacity (MW)": 2794.0
+  },
+  {
+    "Year": 2022,
+    "Country": "FINLAND",
+    "Units": 5.0,
+    "Capacity (MW)": 4394.0
+  },
+  {
+    "Year": 2023,
+    "Country": "FINLAND",
+    "Units": 5.0,
+    "Capacity (MW)": 4394.0
+  },
+  {
+    "Year": 1995,
+    "Country": "FRANCE",
+    "Units": 56.0,
+    "Capacity (MW)": 58573.0
+  },
+  {
+    "Year": 2000,
+    "Country": "FRANCE",
+    "Units": 59.0,
+    "Capacity (MW)": 63080.0
+  },
+  {
+    "Year": 2005,
+    "Country": "FRANCE",
+    "Units": 59.0,
+    "Capacity (MW)": 63260.0
+  },
+  {
+    "Year": 2010,
+    "Country": "FRANCE",
+    "Units": 58.0,
+    "Capacity (MW)": 63130.0
+  },
+  {
+    "Year": 2015,
+    "Country": "FRANCE",
+    "Units": 58.0,
+    "Capacity (MW)": 63130.0
+  },
+  {
+    "Year": 2020,
+    "Country": "FRANCE",
+    "Units": 56.0,
+    "Capacity (MW)": 61370.0
+  },
+  {
+    "Year": 2022,
+    "Country": "FRANCE",
+    "Units": 56.0,
+    "Capacity (MW)": 61370.0
+  },
+  {
+    "Year": 2023,
+    "Country": "FRANCE",
+    "Units": 56.0,
+    "Capacity (MW)": 61370.0
+  },
+  {
+    "Year": 1995,
+    "Country": "GERMANY",
+    "Units": 19.0,
+    "Capacity (MW)": 20972.0
+  },
+  {
+    "Year": 2000,
+    "Country": "GERMANY",
+    "Units": 19.0,
+    "Capacity (MW)": 21283.0
+  },
+  {
+    "Year": 2005,
+    "Country": "GERMANY",
+    "Units": 17.0,
+    "Capacity (MW)": 20339.0
+  },
+  {
+    "Year": 2010,
+    "Country": "GERMANY",
+    "Units": 17.0,
+    "Capacity (MW)": 20490.0
+  },
+  {
+    "Year": 2015,
+    "Country": "GERMANY",
+    "Units": 8.0,
+    "Capacity (MW)": 10799.0
+  },
+  {
+    "Year": 2020,
+    "Country": "GERMANY",
+    "Units": 6.0,
+    "Capacity (MW)": 8113.0
+  },
+  {
+    "Year": 2022,
+    "Country": "GERMANY",
+    "Units": 3.0,
+    "Capacity (MW)": 4055.0
+  },
+  {
+    "Year": 1995,
+    "Country": "HUNGARY",
+    "Units": 4.0,
+    "Capacity (MW)": 1729.0
+  },
+  {
+    "Year": 2000,
+    "Country": "HUNGARY",
+    "Units": 4.0,
+    "Capacity (MW)": 1729.0
+  },
+  {
+    "Year": 2005,
+    "Country": "HUNGARY",
+    "Units": 4.0,
+    "Capacity (MW)": 1755.0
+  },
+  {
+    "Year": 2010,
+    "Country": "HUNGARY",
+    "Units": 4.0,
+    "Capacity (MW)": 1889.0
+  },
+  {
+    "Year": 2015,
+    "Country": "HUNGARY",
+    "Units": 4.0,
+    "Capacity (MW)": 1889.0
+  },
+  {
+    "Year": 2020,
+    "Country": "HUNGARY",
+    "Units": 4.0,
+    "Capacity (MW)": 1902.0
+  },
+  {
+    "Year": 2022,
+    "Country": "HUNGARY",
+    "Units": 4.0,
+    "Capacity (MW)": 1916.0
+  },
+  {
+    "Year": 2023,
+    "Country": "HUNGARY",
+    "Units": 4.0,
+    "Capacity (MW)": 1916.0
+  },
+  {
+    "Year": 1995,
+    "Country": "INDIA",
+    "Units": 10.0,
+    "Capacity (MW)": 1746.0
+  },
+  {
+    "Year": 2000,
+    "Country": "INDIA",
+    "Units": 14.0,
+    "Capacity (MW)": 2508.0
+  },
+  {
+    "Year": 2005,
+    "Country": "INDIA",
+    "Units": 14.0,
+    "Capacity (MW)": 2903.0
+  },
+  {
+    "Year": 2010,
+    "Country": "INDIA",
+    "Units": 18.0,
+    "Capacity (MW)": 4099.0
+  },
+  {
+    "Year": 2015,
+    "Country": "INDIA",
+    "Units": 20.0,
+    "Capacity (MW)": 5218.0
+  },
+  {
+    "Year": 2020,
+    "Country": "INDIA",
+    "Units": 18.0,
+    "Capacity (MW)": 5660.0
+  },
+  {
+    "Year": 2022,
+    "Country": "INDIA",
+    "Units": 19.0,
+    "Capacity (MW)": 6290.0
+  },
+  {
+    "Year": 2023,
+    "Country": "INDIA",
+    "Units": 19.0,
+    "Capacity (MW)": 6290.0
+  },
+  {
+    "Year": 2015,
+    "Country": "IRAN",
+    "Units": 1.0,
+    "Capacity (MW)": 915.0
+  },
+  {
+    "Year": 2020,
+    "Country": "IRAN",
+    "Units": 1.0,
+    "Capacity (MW)": 915.0
+  },
+  {
+    "Year": 2022,
+    "Country": "IRAN",
+    "Units": 1.0,
+    "Capacity (MW)": 915.0
+  },
+  {
+    "Year": 2023,
+    "Country": "IRAN",
+    "Units": 1.0,
+    "Capacity (MW)": 915.0
+  },
+  {
+    "Year": 1995,
+    "Country": "JAPAN",
+    "Units": 50.0,
+    "Capacity (MW)": 39625.0
+  },
+  {
+    "Year": 2000,
+    "Country": "JAPAN",
+    "Units": 52.0,
+    "Capacity (MW)": 43245.0
+  },
+  {
+    "Year": 2005,
+    "Country": "JAPAN",
+    "Units": 55.0,
+    "Capacity (MW)": 47593.0
+  },
+  {
+    "Year": 2010,
+    "Country": "JAPAN",
+    "Units": 50.0,
+    "Capacity (MW)": 42564.0
+  },
+  {
+    "Year": 2015,
+    "Country": "JAPAN",
+    "Units": 20.0,
+    "Capacity (MW)": 18097.0
+  },
+  {
+    "Year": 2020,
+    "Country": "JAPAN",
+    "Units": 10.0,
+    "Capacity (MW)": 9486.0
+  },
+  {
+    "Year": 2022,
+    "Country": "JAPAN",
+    "Units": 10.0,
+    "Capacity (MW)": 9486.0
+  },
+  {
+    "Year": 2023,
+    "Country": "JAPAN",
+    "Units": 12.0,
+    "Capacity (MW)": 11046.0
+  },
+  {
+    "Year": 1995,
+    "Country": "KAZAKHSTAN",
+    "Units": 1.0,
+    "Capacity (MW)": 50.0
+  },
+  {
+    "Year": 1995,
+    "Country": "SOUTH KOREA",
+    "Units": 11.0,
+    "Capacity (MW)": 9115.0
+  },
+  {
+    "Year": 2000,
+    "Country": "SOUTH KOREA",
+    "Units": 16.0,
+    "Capacity (MW)": 12990.0
+  },
+  {
+    "Year": 2005,
+    "Country": "SOUTH KOREA",
+    "Units": 20.0,
+    "Capacity (MW)": 16810.0
+  },
+  {
+    "Year": 2010,
+    "Country": "SOUTH KOREA",
+    "Units": 21.0,
+    "Capacity (MW)": 18698.0
+  },
+  {
+    "Year": 2015,
+    "Country": "SOUTH KOREA",
+    "Units": 24.0,
+    "Capacity (MW)": 21733.0
+  },
+  {
+    "Year": 2020,
+    "Country": "SOUTH KOREA",
+    "Units": 24.0,
+    "Capacity (MW)": 23150.0
+  },
+  {
+    "Year": 2022,
+    "Country": "SOUTH KOREA",
+    "Units": 25.0,
+    "Capacity (MW)": 24489.0
+  },
+  {
+    "Year": 2023,
+    "Country": "SOUTH KOREA",
+    "Units": 26.0,
+    "Capacity (MW)": 25825.0
+  },
+  {
+    "Year": 1995,
+    "Country": "LITHUANIA",
+    "Units": 2.0,
+    "Capacity (MW)": 2370.0
+  },
+  {
+    "Year": 2000,
+    "Country": "LITHUANIA",
+    "Units": 2.0,
+    "Capacity (MW)": 2370.0
+  },
+  {
+    "Year": 2005,
+    "Country": "LITHUANIA",
+    "Units": 1.0,
+    "Capacity (MW)": 1185.0
+  },
+  {
+    "Year": 1995,
+    "Country": "MEXICO",
+    "Units": 2.0,
+    "Capacity (MW)": 1256.0
+  },
+  {
+    "Year": 2000,
+    "Country": "MEXICO",
+    "Units": 2.0,
+    "Capacity (MW)": 1290.0
+  },
+  {
+    "Year": 2005,
+    "Country": "MEXICO",
+    "Units": 2.0,
+    "Capacity (MW)": 1360.0
+  },
+  {
+    "Year": 2010,
+    "Country": "MEXICO",
+    "Units": 2.0,
+    "Capacity (MW)": 1300.0
+  },
+  {
+    "Year": 2015,
+    "Country": "MEXICO",
+    "Units": 2.0,
+    "Capacity (MW)": 1440.0
+  },
+  {
+    "Year": 2020,
+    "Country": "MEXICO",
+    "Units": 2.0,
+    "Capacity (MW)": 1552.0
+  },
+  {
+    "Year": 2022,
+    "Country": "MEXICO",
+    "Units": 2.0,
+    "Capacity (MW)": 1552.0
+  },
+  {
+    "Year": 2023,
+    "Country": "MEXICO",
+    "Units": 2.0,
+    "Capacity (MW)": 1552.0
+  },
+  {
+    "Year": 1995,
+    "Country": "NETHERLANDS",
+    "Units": 2.0,
+    "Capacity (MW)": 510.0
+  },
+  {
+    "Year": 2000,
+    "Country": "NETHERLANDS",
+    "Units": 1.0,
+    "Capacity (MW)": 449.0
+  },
+  {
+    "Year": 2005,
+    "Country": "NETHERLANDS",
+    "Units": 1.0,
+    "Capacity (MW)": 450.0
+  },
+  {
+    "Year": 2010,
+    "Country": "NETHERLANDS",
+    "Units": 1.0,
+    "Capacity (MW)": 482.0
+  },
+  {
+    "Year": 2015,
+    "Country": "NETHERLANDS",
+    "Units": 1.0,
+    "Capacity (MW)": 482.0
+  },
+  {
+    "Year": 2020,
+    "Country": "NETHERLANDS",
+    "Units": 1.0,
+    "Capacity (MW)": 482.0
+  },
+  {
+    "Year": 2022,
+    "Country": "NETHERLANDS",
+    "Units": 1.0,
+    "Capacity (MW)": 482.0
+  },
+  {
+    "Year": 2023,
+    "Country": "NETHERLANDS",
+    "Units": 1.0,
+    "Capacity (MW)": 482.0
+  },
+  {
+    "Year": 1995,
+    "Country": "PAKISTAN",
+    "Units": 1.0,
+    "Capacity (MW)": 125.0
+  },
+  {
+    "Year": 2000,
+    "Country": "PAKISTAN",
+    "Units": 2.0,
+    "Capacity (MW)": 425.0
+  },
+  {
+    "Year": 2005,
+    "Country": "PAKISTAN",
+    "Units": 2.0,
+    "Capacity (MW)": 425.0
+  },
+  {
+    "Year": 2010,
+    "Country": "PAKISTAN",
+    "Units": 2.0,
+    "Capacity (MW)": 425.0
+  },
+  {
+    "Year": 2015,
+    "Country": "PAKISTAN",
+    "Units": 3.0,
+    "Capacity (MW)": 690.0
+  },
+  {
+    "Year": 2020,
+    "Country": "PAKISTAN",
+    "Units": 5.0,
+    "Capacity (MW)": 1318.0
+  },
+  {
+    "Year": 2022,
+    "Country": "PAKISTAN",
+    "Units": 6.0,
+    "Capacity (MW)": 3262.0
+  },
+  {
+    "Year": 2023,
+    "Country": "PAKISTAN",
+    "Units": 6.0,
+    "Capacity (MW)": 3262.0
+  },
+  {
+    "Year": 2000,
+    "Country": "ROMANIA",
+    "Units": 1.0,
+    "Capacity (MW)": 655.0
+  },
+  {
+    "Year": 2005,
+    "Country": "ROMANIA",
+    "Units": 1.0,
+    "Capacity (MW)": 655.0
+  },
+  {
+    "Year": 2010,
+    "Country": "ROMANIA",
+    "Units": 2.0,
+    "Capacity (MW)": 1300.0
+  },
+  {
+    "Year": 2015,
+    "Country": "ROMANIA",
+    "Units": 2.0,
+    "Capacity (MW)": 1300.0
+  },
+  {
+    "Year": 2020,
+    "Country": "ROMANIA",
+    "Units": 2.0,
+    "Capacity (MW)": 1300.0
+  },
+  {
+    "Year": 2022,
+    "Country": "ROMANIA",
+    "Units": 2.0,
+    "Capacity (MW)": 1300.0
+  },
+  {
+    "Year": 2023,
+    "Country": "ROMANIA",
+    "Units": 2.0,
+    "Capacity (MW)": 1300.0
+  },
+  {
+    "Year": 1995,
+    "Country": "RUSSIA",
+    "Units": 30.0,
+    "Capacity (MW)": 19848.0
+  },
+  {
+    "Year": 2000,
+    "Country": "RUSSIA",
+    "Units": 30.0,
+    "Capacity (MW)": 19848.0
+  },
+  {
+    "Year": 2005,
+    "Country": "RUSSIA",
+    "Units": 31.0,
+    "Capacity (MW)": 21743.0
+  },
+  {
+    "Year": 2010,
+    "Country": "RUSSIA",
+    "Units": 32.0,
+    "Capacity (MW)": 22693.0
+  },
+  {
+    "Year": 2015,
+    "Country": "RUSSIA",
+    "Units": 35.0,
+    "Capacity (MW)": 25413.0
+  },
+  {
+    "Year": 2020,
+    "Country": "RUSSIA",
+    "Units": 38.0,
+    "Capacity (MW)": 28578.0
+  },
+  {
+    "Year": 2022,
+    "Country": "RUSSIA",
+    "Units": 37.0,
+    "Capacity (MW)": 27727.0
+  },
+  {
+    "Year": 2023,
+    "Country": "RUSSIA",
+    "Units": 37.0,
+    "Capacity (MW)": 27727.0
+  },
+  {
+    "Year": 1995,
+    "Country": "SLOVAKIA",
+    "Units": 4.0,
+    "Capacity (MW)": 1632.0
+  },
+  {
+    "Year": 2000,
+    "Country": "SLOVAKIA",
+    "Units": 6.0,
+    "Capacity (MW)": 2440.0
+  },
+  {
+    "Year": 2005,
+    "Country": "SLOVAKIA",
+    "Units": 6.0,
+    "Capacity (MW)": 2442.0
+  },
+  {
+    "Year": 2010,
+    "Country": "SLOVAKIA",
+    "Units": 4.0,
+    "Capacity (MW)": 1816.0
+  },
+  {
+    "Year": 2015,
+    "Country": "SLOVAKIA",
+    "Units": 4.0,
+    "Capacity (MW)": 1814.0
+  },
+  {
+    "Year": 2020,
+    "Country": "SLOVAKIA",
+    "Units": 4.0,
+    "Capacity (MW)": 1837.0
+  },
+  {
+    "Year": 2022,
+    "Country": "SLOVAKIA",
+    "Units": 4.0,
+    "Capacity (MW)": 1868.0
+  },
+  {
+    "Year": 2023,
+    "Country": "SLOVAKIA",
+    "Units": 5.0,
+    "Capacity (MW)": 2308.0
+  },
+  {
+    "Year": 1995,
+    "Country": "SLOVENIA",
+    "Units": 1.0,
+    "Capacity (MW)": 620.0
+  },
+  {
+    "Year": 2000,
+    "Country": "SLOVENIA",
+    "Units": 1.0,
+    "Capacity (MW)": 676.0
+  },
+  {
+    "Year": 2005,
+    "Country": "SLOVENIA",
+    "Units": 1.0,
+    "Capacity (MW)": 656.0
+  },
+  {
+    "Year": 2010,
+    "Country": "SLOVENIA",
+    "Units": 1.0,
+    "Capacity (MW)": 666.0
+  },
+  {
+    "Year": 2015,
+    "Country": "SLOVENIA",
+    "Units": 1.0,
+    "Capacity (MW)": 688.0
+  },
+  {
+    "Year": 2020,
+    "Country": "SLOVENIA",
+    "Units": 1.0,
+    "Capacity (MW)": 688.0
+  },
+  {
+    "Year": 2022,
+    "Country": "SLOVENIA",
+    "Units": 1.0,
+    "Capacity (MW)": 688.0
+  },
+  {
+    "Year": 2023,
+    "Country": "SLOVENIA",
+    "Units": 1.0,
+    "Capacity (MW)": 688.0
+  },
+  {
+    "Year": 1995,
+    "Country": "SOUTH AFRICA",
+    "Units": 2.0,
+    "Capacity (MW)": 1840.0
+  },
+  {
+    "Year": 2000,
+    "Country": "SOUTH AFRICA",
+    "Units": 2.0,
+    "Capacity (MW)": 1840.0
+  },
+  {
+    "Year": 2005,
+    "Country": "SOUTH AFRICA",
+    "Units": 2.0,
+    "Capacity (MW)": 1800.0
+  },
+  {
+    "Year": 2010,
+    "Country": "SOUTH AFRICA",
+    "Units": 2.0,
+    "Capacity (MW)": 1800.0
+  },
+  {
+    "Year": 2015,
+    "Country": "SOUTH AFRICA",
+    "Units": 2.0,
+    "Capacity (MW)": 1860.0
+  },
+  {
+    "Year": 2020,
+    "Country": "SOUTH AFRICA",
+    "Units": 2.0,
+    "Capacity (MW)": 1860.0
+  },
+  {
+    "Year": 2022,
+    "Country": "SOUTH AFRICA",
+    "Units": 2.0,
+    "Capacity (MW)": 1854.0
+  },
+  {
+    "Year": 2023,
+    "Country": "SOUTH AFRICA",
+    "Units": 2.0,
+    "Capacity (MW)": 1854.0
+  },
+  {
+    "Year": 1995,
+    "Country": "SPAIN",
+    "Units": 9.0,
+    "Capacity (MW)": 7097.0
+  },
+  {
+    "Year": 2000,
+    "Country": "SPAIN",
+    "Units": 9.0,
+    "Capacity (MW)": 7468.0
+  },
+  {
+    "Year": 2005,
+    "Country": "SPAIN",
+    "Units": 9.0,
+    "Capacity (MW)": 7591.0
+  },
+  {
+    "Year": 2010,
+    "Country": "SPAIN",
+    "Units": 8.0,
+    "Capacity (MW)": 7514.0
+  },
+  {
+    "Year": 2015,
+    "Country": "SPAIN",
+    "Units": 7.0,
+    "Capacity (MW)": 7121.0
+  },
+  {
+    "Year": 2020,
+    "Country": "SPAIN",
+    "Units": 7.0,
+    "Capacity (MW)": 7121.0
+  },
+  {
+    "Year": 2022,
+    "Country": "SPAIN",
+    "Units": 7.0,
+    "Capacity (MW)": 7123.0
+  },
+  {
+    "Year": 2023,
+    "Country": "SPAIN",
+    "Units": 7.0,
+    "Capacity (MW)": 7123.0
+  },
+  {
+    "Year": 1995,
+    "Country": "SWEDEN",
+    "Units": 12.0,
+    "Capacity (MW)": 10028.0
+  },
+  {
+    "Year": 2000,
+    "Country": "SWEDEN",
+    "Units": 11.0,
+    "Capacity (MW)": 9397.0
+  },
+  {
+    "Year": 2005,
+    "Country": "SWEDEN",
+    "Units": 10.0,
+    "Capacity (MW)": 8905.0
+  },
+  {
+    "Year": 2010,
+    "Country": "SWEDEN",
+    "Units": 10.0,
+    "Capacity (MW)": 9303.0
+  },
+  {
+    "Year": 2015,
+    "Country": "SWEDEN",
+    "Units": 10.0,
+    "Capacity (MW)": 9648.0
+  },
+  {
+    "Year": 2020,
+    "Country": "SWEDEN",
+    "Units": 6.0,
+    "Capacity (MW)": 6882.0
+  },
+  {
+    "Year": 2022,
+    "Country": "SWEDEN",
+    "Units": 6.0,
+    "Capacity (MW)": 6937.0
+  },
+  {
+    "Year": 2023,
+    "Country": "SWEDEN",
+    "Units": 6.0,
+    "Capacity (MW)": 6944.0
+  },
+  {
+    "Year": 1995,
+    "Country": "SWITZERLAND",
+    "Units": 5.0,
+    "Capacity (MW)": 3056.0
+  },
+  {
+    "Year": 2000,
+    "Country": "SWITZERLAND",
+    "Units": 5.0,
+    "Capacity (MW)": 3170.0
+  },
+  {
+    "Year": 2005,
+    "Country": "SWITZERLAND",
+    "Units": 5.0,
+    "Capacity (MW)": 3220.0
+  },
+  {
+    "Year": 2010,
+    "Country": "SWITZERLAND",
+    "Units": 5.0,
+    "Capacity (MW)": 3238.0
+  },
+  {
+    "Year": 2015,
+    "Country": "SWITZERLAND",
+    "Units": 5.0,
+    "Capacity (MW)": 3333.0
+  },
+  {
+    "Year": 2020,
+    "Country": "SWITZERLAND",
+    "Units": 4.0,
+    "Capacity (MW)": 2960.0
+  },
+  {
+    "Year": 2022,
+    "Country": "SWITZERLAND",
+    "Units": 4.0,
+    "Capacity (MW)": 2973.0
+  },
+  {
+    "Year": 2023,
+    "Country": "SWITZERLAND",
+    "Units": 4.0,
+    "Capacity (MW)": 2973.0
+  },
+  {
+    "Year": 2020,
+    "Country": "UAE",
+    "Units": 1.0,
+    "Capacity (MW)": 1345.0
+  },
+  {
+    "Year": 2022,
+    "Country": "UAE",
+    "Units": 3.0,
+    "Capacity (MW)": 4011.0
+  },
+  {
+    "Year": 2023,
+    "Country": "UAE",
+    "Units": 3.0,
+    "Capacity (MW)": 4011.0
+  },
+  {
+    "Year": 1995,
+    "Country": "UK",
+    "Units": 35.0,
+    "Capacity (MW)": 12910.0
+  },
+  {
+    "Year": 2000,
+    "Country": "UK",
+    "Units": 33.0,
+    "Capacity (MW)": 12490.0
+  },
+  {
+    "Year": 2005,
+    "Country": "UK",
+    "Units": 23.0,
+    "Capacity (MW)": 11852.0
+  },
+  {
+    "Year": 2010,
+    "Country": "UK",
+    "Units": 19.0,
+    "Capacity (MW)": 10137.0
+  },
+  {
+    "Year": 2015,
+    "Country": "UK",
+    "Units": 15.0,
+    "Capacity (MW)": 8918.0
+  },
+  {
+    "Year": 2020,
+    "Country": "UK",
+    "Units": 15.0,
+    "Capacity (MW)": 8923.0
+  },
+  {
+    "Year": 2022,
+    "Country": "UK",
+    "Units": 9.0,
+    "Capacity (MW)": 5883.0
+  },
+  {
+    "Year": 2023,
+    "Country": "UK",
+    "Units": 9.0,
+    "Capacity (MW)": 5883.0
+  },
+  {
+    "Year": 1995,
+    "Country": "UKRAINE",
+    "Units": 15.0,
+    "Capacity (MW)": 13045.0
+  },
+  {
+    "Year": 2000,
+    "Country": "UKRAINE",
+    "Units": 13.0,
+    "Capacity (MW)": 11195.0
+  },
+  {
+    "Year": 2005,
+    "Country": "UKRAINE",
+    "Units": 15.0,
+    "Capacity (MW)": 13107.0
+  },
+  {
+    "Year": 2010,
+    "Country": "UKRAINE",
+    "Units": 15.0,
+    "Capacity (MW)": 13107.0
+  },
+  {
+    "Year": 2015,
+    "Country": "UKRAINE",
+    "Units": 15.0,
+    "Capacity (MW)": 13107.0
+  },
+  {
+    "Year": 2020,
+    "Country": "UKRAINE",
+    "Units": 15.0,
+    "Capacity (MW)": 13107.0
+  },
+  {
+    "Year": 2022,
+    "Country": "UKRAINE",
+    "Units": 15.0,
+    "Capacity (MW)": 13107.0
+  },
+  {
+    "Year": 2023,
+    "Country": "UKRAINE",
+    "Units": 15.0,
+    "Capacity (MW)": 13107.0
+  },
+  {
+    "Year": 1995,
+    "Country": "USA",
+    "Units": 108.0,
+    "Capacity (MW)": 98068.0
+  },
+  {
+    "Year": 2000,
+    "Country": "USA",
+    "Units": 103.0,
+    "Capacity (MW)": 96297.0
+  },
+  {
+    "Year": 2005,
+    "Country": "USA",
+    "Units": 103.0,
+    "Capacity (MW)": 98145.0
+  },
+  {
+    "Year": 2010,
+    "Country": "USA",
+    "Units": 104.0,
+    "Capacity (MW)": 101211.0
+  },
+  {
+    "Year": 2015,
+    "Country": "USA",
+    "Units": 99.0,
+    "Capacity (MW)": 99167.0
+  },
+  {
+    "Year": 2020,
+    "Country": "USA",
+    "Units": 94.0,
+    "Capacity (MW)": 96553.0
+  },
+  {
+    "Year": 2022,
+    "Country": "USA",
+    "Units": 92.0,
+    "Capacity (MW)": 94718.0
+  },
+  {
+    "Year": 2023,
+    "Country": "USA",
+    "Units": 93.0,
+    "Capacity (MW)": 95835.0
+  },
+  {
+    "Year": 1995,
+    "Country": "World",
+    "Units": 434.0,
+    "Capacity (MW)": 341387.0
+  },
+  {
+    "Year": 2000,
+    "Country": "World",
+    "Units": 435.0,
+    "Capacity (MW)": 349984.0
+  },
+  {
+    "Year": 2005,
+    "Country": "World",
+    "Units": 440.0,
+    "Capacity (MW)": 368035.0
+  },
+  {
+    "Year": 2010,
+    "Country": "World",
+    "Units": 436.0,
+    "Capacity (MW)": 370930.0
+  },
+  {
+    "Year": 2015,
+    "Country": "World",
+    "Units": 416.0,
+    "Capacity (MW)": 360504.0
+  },
+  {
+    "Year": 2020,
+    "Country": "World",
+    "Units": 414.0,
+    "Capacity (MW)": 369804.0
+  },
+  {
+    "Year": 2022,
+    "Country": "World",
+    "Units": 411.0,
+    "Capacity (MW)": 370941.0
+  },
+  {
+    "Year": 2023,
+    "Country": "World",
+    "Units": 413.0,
+    "Capacity (MW)": 371539.0
+  }
+]

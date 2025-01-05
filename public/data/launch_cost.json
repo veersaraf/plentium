@@ -1,0 +1,114 @@
+[
+  {
+    "Entity": "Antares",
+    "Code": "",
+    "Year": 2013,
+    "cost_per_kg": 13600,
+    "launch_class": "Medium"
+  },
+  {
+    "Entity": "Atlas V",
+    "Code": "",
+    "Year": 2002,
+    "cost_per_kg": 8100,
+    "launch_class": "Medium"
+  },
+  {
+    "Entity": "Delta IV",
+    "Code": "",
+    "Year": 2002,
+    "cost_per_kg": 10400,
+    "launch_class": "Medium"
+  },
+  {
+    "Entity": "Delta IV Heavy",
+    "Code": "",
+    "Year": 2004,
+    "cost_per_kg": 11600,
+    "launch_class": "Heavy"
+  },
+  {
+    "Entity": "Electron",
+    "Code": "",
+    "Year": 2018,
+    "cost_per_kg": 23100,
+    "launch_class": "Small"
+  },
+  {
+    "Entity": "Falcon 1",
+    "Code": "",
+    "Year": 2008,
+    "cost_per_kg": 12600,
+    "launch_class": "Small"
+  },
+  {
+    "Entity": "Falcon 9",
+    "Code": "",
+    "Year": 2010,
+    "cost_per_kg": 2600,
+    "launch_class": "Medium"
+  },
+  {
+    "Entity": "Falcon Heavy",
+    "Code": "",
+    "Year": 2018,
+    "cost_per_kg": 1500,
+    "launch_class": "Heavy"
+  },
+  {
+    "Entity": "Starship",
+    "Code": "",
+    "Year": 2030,
+    "cost_per_kg": 200,
+    "launch_class": "Heavy"
+  },
+  {
+    "Entity": "GSLV",
+    "Code": "",
+    "Year": 2001,
+    "cost_per_kg": 10000,
+    "launch_class": "Medium"
+  },
+  {
+    "Entity": "LVM3",
+    "Code": "",
+    "Year": 2017,
+    "cost_per_kg": 8000,
+    "launch_class": "Medium"
+  },
+  {
+    "Entity": "Long March 11",
+    "Code": "",
+    "Year": 2015,
+    "cost_per_kg": 10600,
+    "launch_class": "Small"
+  },
+  {
+    "Entity": "Long March 5",
+    "Code": "",
+    "Year": 2016,
+    "cost_per_kg": 7900,
+    "launch_class": "Heavy"
+  },
+  {
+    "Entity": "PSLV",
+    "Code": "",
+    "Year": 1994,
+    "cost_per_kg": 8500,
+    "launch_class": "Medium"
+  },
+  {
+    "Entity": "Saturn V",
+    "Code": "",
+    "Year": 1967,
+    "cost_per_kg": 5400,
+    "launch_class": "Heavy"
+  },
+  {
+    "Entity": "Soyuz",
+    "Code": "",
+    "Year": 1966,
+    "cost_per_kg": 17900,
+    "launch_class": "Medium"
+  }
+]

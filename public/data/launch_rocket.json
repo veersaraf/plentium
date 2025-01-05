@@ -1,0 +1,4858 @@
+[
+    {
+      "Year": 1960,
+      "Rocket": "Atlas-Able",
+      "Country": "United States",
+      "Launches": 2,
+      "Successes": 0,
+      "Failures": 2
+    },
+    {
+      "Year": 1960,
+      "Rocket": "Atlas LV-3A Agena-A",
+      "Country": "United States",
+      "Launches": 3,
+      "Successes": 1,
+      "Failures": 2
+    },
+    {
+      "Year": 1960,
+      "Rocket": "Juno II",
+      "Country": "United States",
+      "Launches": 2,
+      "Successes": 1,
+      "Failures": 1
+    },
+    {
+      "Year": 1960,
+      "Rocket": "Luna8K72",
+      "Country": "Soviet Union",
+      "Launches": 2,
+      "Successes": 0,
+      "Failures": 2
+    },
+    {
+      "Year": 1960,
+      "Rocket": "Molniya8K78",
+      "Country": "Soviet Union",
+      "Launches": 2,
+      "Successes": 0,
+      "Failures": 2
+    },
+    {
+      "Year": 1960,
+      "Rocket": "Scout X-1",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 1960,
+      "Rocket": "Thor DM-18 Able-II",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 1960,
+      "Rocket": "Thor DM-18 Able-IV",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 1960,
+      "Rocket": "Thor DM-21 Ablestar",
+      "Country": "United States",
+      "Launches": 5,
+      "Successes": 3,
+      "Failures": 2
+    },
+    {
+      "Year": 1960,
+      "Rocket": "Thor DM-18 Agena-A",
+      "Country": "United States",
+      "Launches": 7,
+      "Successes": 4,
+      "Failures": 3
+    },
+    {
+      "Year": 1960,
+      "Rocket": "Thor DM-21 Agena-B",
+      "Country": "United States",
+      "Launches": 4,
+      "Successes": 3,
+      "Failures": 1
+    },
+    {
+      "Year": 1960,
+      "Rocket": "Thor DM-19 Delta",
+      "Country": "United States",
+      "Launches": 3,
+      "Successes": 2,
+      "Failures": 1
+    },
+    {
+      "Year": 1960,
+      "Rocket": "Vostok-L8K72",
+      "Country": "Soviet Union",
+      "Launches": 3,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 1960,
+      "Rocket": "Vostok-K8K72K",
+      "Country": "Soviet Union",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 1961,
+      "Rocket": "Atlas LV-3A Agena-A",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 1961,
+      "Rocket": "Atlas LV-3A Agena-B",
+      "Country": "United States",
+      "Launches": 7,
+      "Successes": 2,
+      "Failures": 4
+    },
+    {
+      "Year": 1961,
+      "Rocket": "Atlas LV-3B",
+      "Country": "United States",
+      "Launches": 3,
+      "Successes": 2,
+      "Failures": 1
+    },
+    {
+      "Year": 1961,
+      "Rocket": "RM-90 Blue Scout II",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 1961,
+      "Rocket": "Juno II",
+      "Country": "United States",
+      "Launches": 3,
+      "Successes": 1,
+      "Failures": 2
+    },
+    {
+      "Year": 1961,
+      "Rocket": "Kosmos-2I63S1",
+      "Country": "Soviet Union",
+      "Launches": 2,
+      "Successes": 0,
+      "Failures": 2
+    },
+    {
+      "Year": 1961,
+      "Rocket": "Molniya8K78",
+      "Country": "Soviet Union",
+      "Launches": 2,
+      "Successes": 1,
+      "Failures": 1
+    },
+    {
+      "Year": 1961,
+      "Rocket": "Scout X-1",
+      "Country": "United States",
+      "Launches": 3,
+      "Successes": 1,
+      "Failures": 2
+    },
+    {
+      "Year": 1961,
+      "Rocket": "Thor DM-21 Ablestar",
+      "Country": "United States",
+      "Launches": 3,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 1961,
+      "Rocket": "Thor DM-21 Agena-B",
+      "Country": "United States",
+      "Launches": 17,
+      "Successes": 11,
+      "Failures": 6
+    },
+    {
+      "Year": 1961,
+      "Rocket": "Thor DM-19 Delta",
+      "Country": "United States",
+      "Launches": 3,
+      "Successes": 3,
+      "Failures": 0
+    },
+    {
+      "Year": 1961,
+      "Rocket": "Vostok-K8K72K",
+      "Country": "Soviet Union",
+      "Launches": 5,
+      "Successes": 4,
+      "Failures": 1
+    },
+    {
+      "Year": 1962,
+      "Rocket": "Atlas LV-3A Agena-B",
+      "Country": "United States",
+      "Launches": 13,
+      "Successes": 10,
+      "Failures": 3
+    },
+    {
+      "Year": 1962,
+      "Rocket": "Atlas LV-3B",
+      "Country": "United States",
+      "Launches": 3,
+      "Successes": 3,
+      "Failures": 0
+    },
+    {
+      "Year": 1962,
+      "Rocket": "Delta A",
+      "Country": "United States",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 1962,
+      "Rocket": "Delta B",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 1962,
+      "Rocket": "Kosmos-2I63S1",
+      "Country": "Soviet Union",
+      "Launches": 8,
+      "Successes": 7,
+      "Failures": 1
+    },
+    {
+      "Year": 1962,
+      "Rocket": "Molniya8K78",
+      "Country": "Soviet Union",
+      "Launches": 6,
+      "Successes": 1,
+      "Failures": 5
+    },
+    {
+      "Year": 1962,
+      "Rocket": "Scout X-2",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 1962,
+      "Rocket": "Scout X-2M",
+      "Country": "United States",
+      "Launches": 2,
+      "Successes": 1,
+      "Failures": 1
+    },
+    {
+      "Year": 1962,
+      "Rocket": "Scout X-3",
+      "Country": "United States",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 1962,
+      "Rocket": "Thor DM-21 Ablestar",
+      "Country": "United States",
+      "Launches": 3,
+      "Successes": 1,
+      "Failures": 2
+    },
+    {
+      "Year": 1962,
+      "Rocket": "Thor DM-21 Agena-B",
+      "Country": "United States",
+      "Launches": 18,
+      "Successes": 16,
+      "Failures": 1
+    },
+    {
+      "Year": 1962,
+      "Rocket": "Thor DM-21 Agena-D",
+      "Country": "United States",
+      "Launches": 8,
+      "Successes": 8,
+      "Failures": 0
+    },
+    {
+      "Year": 1962,
+      "Rocket": "Thor DM-19 Delta",
+      "Country": "United States",
+      "Launches": 6,
+      "Successes": 6,
+      "Failures": 0
+    },
+    {
+      "Year": 1962,
+      "Rocket": "Vostok-K8K72K",
+      "Country": "Soviet Union",
+      "Launches": 3,
+      "Successes": 3,
+      "Failures": 0
+    },
+    {
+      "Year": 1962,
+      "Rocket": "Vostok-28A92",
+      "Country": "Soviet Union",
+      "Launches": 5,
+      "Successes": 4,
+      "Failures": 1
+    },
+    {
+      "Year": 1963,
+      "Rocket": "Atlas LV-3A Agena-B",
+      "Country": "United States",
+      "Launches": 3,
+      "Successes": 1,
+      "Failures": 1
+    },
+    {
+      "Year": 1963,
+      "Rocket": "Atlas LV-3A Agena-D",
+      "Country": "United States",
+      "Launches": 5,
+      "Successes": 5,
+      "Failures": 0
+    },
+    {
+      "Year": 1963,
+      "Rocket": "Atlas LV-3B",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 1963,
+      "Rocket": "Atlas LV-3C Centaur-B",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 1963,
+      "Rocket": "Delta B",
+      "Country": "United States",
+      "Launches": 6,
+      "Successes": 6,
+      "Failures": 0
+    },
+    {
+      "Year": 1963,
+      "Rocket": "Delta C",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 1963,
+      "Rocket": "Kosmos-2I63S1",
+      "Country": "Soviet Union",
+      "Launches": 8,
+      "Successes": 4,
+      "Failures": 4
+    },
+    {
+      "Year": 1963,
+      "Rocket": "Molniya8K78",
+      "Country": "Soviet Union",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 1963,
+      "Rocket": "Molniya-L8K78L",
+      "Country": "Soviet Union",
+      "Launches": 3,
+      "Successes": 1,
+      "Failures": 2
+    },
+    {
+      "Year": 1963,
+      "Rocket": "Polyot11A59",
+      "Country": "Soviet Union",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 1963,
+      "Rocket": "Scout X-2B",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 1963,
+      "Rocket": "Scout X-2M",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 1963,
+      "Rocket": "Scout X-3",
+      "Country": "United States",
+      "Launches": 2,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 1963,
+      "Rocket": "Scout X-3M",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 1963,
+      "Rocket": "Scout X-4",
+      "Country": "United States",
+      "Launches": 2,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 1963,
+      "Rocket": "Thor DSV-2A Ablestar",
+      "Country": "United States",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 1963,
+      "Rocket": "Thor DM-21 Agena-B",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 1963,
+      "Rocket": "Thor SLV-2 Agena-D(Thor DM-21 Agena-D)",
+      "Country": "United States",
+      "Launches": 8,
+      "Successes": 6,
+      "Failures": 2
+    },
+    {
+      "Year": 1963,
+      "Rocket": "Thrust Augmented Thor SLV-2A Agena-B",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 1963,
+      "Rocket": "Thrust Augmented Thor SLV-2A Agena-D",
+      "Country": "United States",
+      "Launches": 10,
+      "Successes": 8,
+      "Failures": 2
+    },
+    {
+      "Year": 1963,
+      "Rocket": "Voskhod11A57",
+      "Country": "Soviet Union",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 1963,
+      "Rocket": "Vostok-K8K72K",
+      "Country": "Soviet Union",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 1963,
+      "Rocket": "Vostok-28A92",
+      "Country": "Soviet Union",
+      "Launches": 8,
+      "Successes": 6,
+      "Failures": 2
+    },
+    {
+      "Year": 1964,
+      "Rocket": "Atlas LV-3A Agena-B",
+      "Country": "United States",
+      "Launches": 3,
+      "Successes": 3,
+      "Failures": 0
+    },
+    {
+      "Year": 1964,
+      "Rocket": "Atlas LV-3A Agena-D",
+      "Country": "United States",
+      "Launches": 9,
+      "Successes": 8,
+      "Failures": 1
+    },
+    {
+      "Year": 1964,
+      "Rocket": "Atlas SLV-3 Agena-D",
+      "Country": "United States",
+      "Launches": 4,
+      "Successes": 3,
+      "Failures": 1
+    },
+    {
+      "Year": 1964,
+      "Rocket": "Atlas LV-3C Centaur-C",
+      "Country": "United States",
+      "Launches": 2,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 1964,
+      "Rocket": "Delta B",
+      "Country": "United States",
+      "Launches": 2,
+      "Successes": 1,
+      "Failures": 1
+    },
+    {
+      "Year": 1964,
+      "Rocket": "Delta C",
+      "Country": "United States",
+      "Launches": 2,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 1964,
+      "Rocket": "Delta D",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 1964,
+      "Rocket": "Kosmos-163S3",
+      "Country": "Soviet Union",
+      "Launches": 2,
+      "Successes": 1,
+      "Failures": 1
+    },
+    {
+      "Year": 1964,
+      "Rocket": "Kosmos-2I63S1",
+      "Country": "Soviet Union",
+      "Launches": 8,
+      "Successes": 7,
+      "Failures": 1
+    },
+    {
+      "Year": 1964,
+      "Rocket": "Molniya8K78",
+      "Country": "Soviet Union",
+      "Launches": 3,
+      "Successes": 2,
+      "Failures": 1
+    },
+    {
+      "Year": 1964,
+      "Rocket": "Molniya-M8K78M",
+      "Country": "Soviet Union",
+      "Launches": 5,
+      "Successes": 1,
+      "Failures": 4
+    },
+    {
+      "Year": 1964,
+      "Rocket": "Polyot11A59",
+      "Country": "Soviet Union",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 1964,
+      "Rocket": "Saturn I",
+      "Country": "United States",
+      "Launches": 3,
+      "Successes": 3,
+      "Failures": 0
+    },
+    {
+      "Year": 1964,
+      "Rocket": "Scout X-3",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 1964,
+      "Rocket": "Scout X-4",
+      "Country": "United States",
+      "Launches": 7,
+      "Successes": 6,
+      "Failures": 1
+    },
+    {
+      "Year": 1964,
+      "Rocket": "Scout X-4",
+      "Country": "Italy",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 1964,
+      "Rocket": "Thor DSV-2A Ablestar",
+      "Country": "United States",
+      "Launches": 3,
+      "Successes": 2,
+      "Failures": 1
+    },
+    {
+      "Year": 1964,
+      "Rocket": "Thor SLV-2 Agena-B",
+      "Country": "United States",
+      "Launches": 2,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 1964,
+      "Rocket": "Thor SLV-2 Agena-D",
+      "Country": "United States",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 1964,
+      "Rocket": "Thrust Augmented Thor SLV-2A Agena-D",
+      "Country": "United States",
+      "Launches": 20,
+      "Successes": 19,
+      "Failures": 1
+    },
+    {
+      "Year": 1964,
+      "Rocket": "Titan II GLV",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 1964,
+      "Rocket": "Titan IIIA",
+      "Country": "United States",
+      "Launches": 2,
+      "Successes": 1,
+      "Failures": 1
+    },
+    {
+      "Year": 1964,
+      "Rocket": "Voskhod11A57",
+      "Country": "Soviet Union",
+      "Launches": 5,
+      "Successes": 5,
+      "Failures": 0
+    },
+    {
+      "Year": 1964,
+      "Rocket": "Vostok-K8K72K",
+      "Country": "Soviet Union",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 1964,
+      "Rocket": "Vostok-28A92",
+      "Country": "Soviet Union",
+      "Launches": 9,
+      "Successes": 9,
+      "Failures": 0
+    },
+    {
+      "Year": 1964,
+      "Rocket": "Vostok-2M8A92M",
+      "Country": "Soviet Union",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 1965,
+      "Rocket": "Atlas D",
+      "Country": "United States",
+      "Launches": 3,
+      "Successes": 1,
+      "Failures": 2
+    },
+    {
+      "Year": 1965,
+      "Rocket": "Atlas LV-3A Agena-B",
+      "Country": "United States",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 1965,
+      "Rocket": "Atlas LV-3A Agena-D",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 1965,
+      "Rocket": "Atlas SLV-3 Agena-D",
+      "Country": "United States",
+      "Launches": 11,
+      "Successes": 9,
+      "Failures": 2
+    },
+    {
+      "Year": 1965,
+      "Rocket": "Atlas LV-3C Centaur-C",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 1965,
+      "Rocket": "Atlas LV-3C Centaur-D",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 1965,
+      "Rocket": "Delta C",
+      "Country": "United States",
+      "Launches": 5,
+      "Successes": 4,
+      "Failures": 1
+    },
+    {
+      "Year": 1965,
+      "Rocket": "Delta D",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 1965,
+      "Rocket": "Delta E",
+      "Country": "United States",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 1965,
+      "Rocket": "Diamant A",
+      "Country": "France",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 1965,
+      "Rocket": "Kosmos-163S3",
+      "Country": "Soviet Union",
+      "Launches": 6,
+      "Successes": 6,
+      "Failures": 0
+    },
+    {
+      "Year": 1965,
+      "Rocket": "Kosmos-2I63S1",
+      "Country": "Soviet Union",
+      "Launches": 7,
+      "Successes": 4,
+      "Failures": 3
+    },
+    {
+      "Year": 1965,
+      "Rocket": "Kosmos-2M63S1M",
+      "Country": "Soviet Union",
+      "Launches": 3,
+      "Successes": 3,
+      "Failures": 0
+    },
+    {
+      "Year": 1965,
+      "Rocket": "Molniya8K78",
+      "Country": "Soviet Union",
+      "Launches": 6,
+      "Successes": 5,
+      "Failures": 1
+    },
+    {
+      "Year": 1965,
+      "Rocket": "Molniya-L8K78L",
+      "Country": "Soviet Union",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 1965,
+      "Rocket": "Molniya-M8K78M",
+      "Country": "Soviet Union",
+      "Launches": 5,
+      "Successes": 4,
+      "Failures": 1
+    },
+    {
+      "Year": 1965,
+      "Rocket": "Saturn I",
+      "Country": "United States",
+      "Launches": 3,
+      "Successes": 3,
+      "Failures": 0
+    },
+    {
+      "Year": 1965,
+      "Rocket": "Scout A",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 1965,
+      "Rocket": "Scout B",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 1965,
+      "Rocket": "Scout X-4",
+      "Country": "United States",
+      "Launches": 3,
+      "Successes": 3,
+      "Failures": 0
+    },
+    {
+      "Year": 1965,
+      "Rocket": "Soyuz/Vostok11A510",
+      "Country": "Soviet Union",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 1965,
+      "Rocket": "Thor DSV-2A Ablestar",
+      "Country": "United States",
+      "Launches": 3,
+      "Successes": 3,
+      "Failures": 0
+    },
+    {
+      "Year": 1965,
+      "Rocket": "Thor LV-2D Burner-1",
+      "Country": "United States",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 1965,
+      "Rocket": "Thor LV-2D MG-18",
+      "Country": "United States",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 1965,
+      "Rocket": "Thor SLV-2 Agena-B",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 1965,
+      "Rocket": "Thor SLV-2 Agena-D",
+      "Country": "United States",
+      "Launches": 2,
+      "Successes": 1,
+      "Failures": 1
+    },
+    {
+      "Year": 1965,
+      "Rocket": "Thrust Augmented Thor SLV-2A Agena-D",
+      "Country": "United States",
+      "Launches": 15,
+      "Successes": 15,
+      "Failures": 0
+    },
+    {
+      "Year": 1965,
+      "Rocket": "Titan II GLV",
+      "Country": "United States",
+      "Launches": 5,
+      "Successes": 5,
+      "Failures": 0
+    },
+    {
+      "Year": 1965,
+      "Rocket": "Titan IIIA",
+      "Country": "United States",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 1965,
+      "Rocket": "Titan IIIC",
+      "Country": "United States",
+      "Launches": 3,
+      "Successes": 1,
+      "Failures": 1
+    },
+    {
+      "Year": 1965,
+      "Rocket": "Voskhod11A57",
+      "Country": "Soviet Union",
+      "Launches": 12,
+      "Successes": 12,
+      "Failures": 0
+    },
+    {
+      "Year": 1965,
+      "Rocket": "Vostok-28A92",
+      "Country": "Soviet Union",
+      "Launches": 8,
+      "Successes": 7,
+      "Failures": 1
+    },
+    {
+      "Year": 1965,
+      "Rocket": "Vostok-2M8A92M",
+      "Country": "Soviet Union",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 1965,
+      "Rocket": "UR-500(Proton) 8K72",
+      "Country": "Soviet Union",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 1969,
+      "Rocket": "Atlas",
+      "Country": "United States",
+      "Launches": 5,
+      "Successes": 5,
+      "Failures": 0
+    },
+    {
+      "Year": 1969,
+      "Rocket": "Blue Streak",
+      "Country": "Europe",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 1969,
+      "Rocket": "Kosmos",
+      "Country": "Soviet Union",
+      "Launches": 22,
+      "Successes": 20,
+      "Failures": 2
+    },
+    {
+      "Year": 1969,
+      "Rocket": "Lambda",
+      "Country": "Japan",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 1969,
+      "Rocket": "N-1",
+      "Country": "Soviet Union",
+      "Launches": 2,
+      "Successes": 0,
+      "Failures": 2
+    },
+    {
+      "Year": 1969,
+      "Rocket": "R-7",
+      "Country": "Soviet Union",
+      "Launches": 44,
+      "Successes": 43,
+      "Failures": 1
+    },
+    {
+      "Year": 1969,
+      "Rocket": "R-36",
+      "Country": "Soviet Union",
+      "Launches": 4,
+      "Successes": 3,
+      "Failures": 1
+    },
+    {
+      "Year": 1969,
+      "Rocket": "Saturn",
+      "Country": "United States",
+      "Launches": 4,
+      "Successes": 4,
+      "Failures": 0
+    },
+    {
+      "Year": 1969,
+      "Rocket": "Scout",
+      "Country": "United States",
+      "Launches": 2,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 1969,
+      "Rocket": "Thor",
+      "Country": "United States",
+      "Launches": 22,
+      "Successes": 20,
+      "Failures": 2
+    },
+    {
+      "Year": 1969,
+      "Rocket": "Titan",
+      "Country": "United States",
+      "Launches": 8,
+      "Successes": 7,
+      "Failures": 0
+    },
+    {
+      "Year": 1969,
+      "Rocket": "Universal Rocket",
+      "Country": "Soviet Union",
+      "Launches": 10,
+      "Successes": 2,
+      "Failures": 8
+    },
+    {
+      "Year": 1971,
+      "Rocket": "Atlas",
+      "Country": "United States",
+      "Launches": 6,
+      "Successes": 4,
+      "Failures": 2
+    },
+    {
+      "Year": 1971,
+      "Rocket": "Black Arrow",
+      "Country": "United Kingdom",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 1971,
+      "Rocket": "Diamant",
+      "Country": "France",
+      "Launches": 2,
+      "Successes": 1,
+      "Failures": 1
+    },
+    {
+      "Year": 1971,
+      "Rocket": "Europa",
+      "Country": "Europe",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 1971,
+      "Rocket": "Kosmos(R-12/14)",
+      "Country": "Soviet Union",
+      "Launches": 34,
+      "Successes": 31,
+      "Failures": 3
+    },
+    {
+      "Year": 1971,
+      "Rocket": "Long March",
+      "Country": "People's Republic of China",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 1971,
+      "Rocket": "Mu",
+      "Country": "Japan",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 1971,
+      "Rocket": "N",
+      "Country": "Soviet Union",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 1971,
+      "Rocket": "R-7",
+      "Country": "Soviet Union",
+      "Launches": 44,
+      "Successes": 40,
+      "Failures": 4
+    },
+    {
+      "Year": 1971,
+      "Rocket": "R-36",
+      "Country": "Soviet Union",
+      "Launches": 6,
+      "Successes": 6,
+      "Failures": 0
+    },
+    {
+      "Year": 1971,
+      "Rocket": "Saturn",
+      "Country": "United States",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 1971,
+      "Rocket": "Titan",
+      "Country": "United States",
+      "Launches": 8,
+      "Successes": 8,
+      "Failures": 0
+    },
+    {
+      "Year": 1971,
+      "Rocket": "Thor",
+      "Country": "United States",
+      "Launches": 14,
+      "Successes": 12,
+      "Failures": 2
+    },
+    {
+      "Year": 1971,
+      "Rocket": "Scout",
+      "Country": "United States",
+      "Launches": 5,
+      "Successes": 5,
+      "Failures": 0
+    },
+    {
+      "Year": 1971,
+      "Rocket": "Universal Rocket",
+      "Country": "Soviet Union",
+      "Launches": 6,
+      "Successes": 5,
+      "Failures": 1
+    },
+    {
+      "Year": 1980,
+      "Rocket": "Ariane",
+      "Country": "Europe",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 1980,
+      "Rocket": "Atlas",
+      "Country": "United States",
+      "Launches": 8,
+      "Successes": 6,
+      "Failures": 2
+    },
+    {
+      "Year": 1980,
+      "Rocket": "Mu",
+      "Country": "Japan",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 1980,
+      "Rocket": "R-7",
+      "Country": "Soviet Union",
+      "Launches": 63,
+      "Successes": 61,
+      "Failures": 2
+    },
+    {
+      "Year": 1980,
+      "Rocket": "R-14",
+      "Country": "Soviet Union",
+      "Launches": 16,
+      "Successes": 16,
+      "Failures": 0
+    },
+    {
+      "Year": 1980,
+      "Rocket": "R-36",
+      "Country": "Soviet Union",
+      "Launches": 5,
+      "Successes": 5,
+      "Failures": 0
+    },
+    {
+      "Year": 1980,
+      "Rocket": "SLV",
+      "Country": "India",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 1980,
+      "Rocket": "Thor/Delta",
+      "Country": "United States",
+      "Launches": 5,
+      "Successes": 4,
+      "Failures": 1
+    },
+    {
+      "Year": 1980,
+      "Rocket": "Titan",
+      "Country": "United States",
+      "Launches": 3,
+      "Successes": 3,
+      "Failures": 0
+    },
+    {
+      "Year": 1980,
+      "Rocket": "Universal Rocket",
+      "Country": "Soviet Union",
+      "Launches": 5,
+      "Successes": 5,
+      "Failures": 0
+    },
+    {
+      "Year": 2001,
+      "Rocket": "Ariane",
+      "Country": "Europe",
+      "Launches": 8,
+      "Successes": 7,
+      "Failures": 0
+    },
+    {
+      "Year": 2001,
+      "Rocket": "Athena",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2001,
+      "Rocket": "Atlas",
+      "Country": "United States",
+      "Launches": 4,
+      "Successes": 4,
+      "Failures": 0
+    },
+    {
+      "Year": 2001,
+      "Rocket": "Delta",
+      "Country": "United States",
+      "Launches": 7,
+      "Successes": 7,
+      "Failures": 0
+    },
+    {
+      "Year": 2001,
+      "Rocket": "GSLV",
+      "Country": "India",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 2001,
+      "Rocket": "H-II",
+      "Country": "Japan",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2001,
+      "Rocket": "Long March",
+      "Country": "China",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2001,
+      "Rocket": "Minotaur",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 2001,
+      "Rocket": "PSLV",
+      "Country": "India",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2001,
+      "Rocket": "R-7",
+      "Country": "Russia",
+      "Launches": 11,
+      "Successes": 11,
+      "Failures": 0
+    },
+    {
+      "Year": 2001,
+      "Rocket": "R-14",
+      "Country": "Russia",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2001,
+      "Rocket": "R-36",
+      "Country": "Ukraine",
+      "Launches": 3,
+      "Successes": 3,
+      "Failures": 0
+    },
+    {
+      "Year": 2001,
+      "Rocket": "RT-2PM",
+      "Country": "Russia",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2001,
+      "Rocket": "Space Shuttle",
+      "Country": "United States",
+      "Launches": 6,
+      "Successes": 6,
+      "Failures": 0
+    },
+    {
+      "Year": 2001,
+      "Rocket": "Titan",
+      "Country": "United States",
+      "Launches": 3,
+      "Successes": 3,
+      "Failures": 0
+    },
+    {
+      "Year": 2001,
+      "Rocket": "Universal Rocket",
+      "Country": "Russia",
+      "Launches": 6,
+      "Successes": 6,
+      "Failures": 0
+    },
+    {
+      "Year": 2001,
+      "Rocket": "Zenit",
+      "Country": "Ukraine",
+      "Launches": 3,
+      "Successes": 3,
+      "Failures": 0
+    },
+    {
+      "Year": 2002,
+      "Rocket": "Ariane",
+      "Country": "Europe",
+      "Launches": 12,
+      "Successes": 11,
+      "Failures": 1
+    },
+    {
+      "Year": 2002,
+      "Rocket": "Atlas",
+      "Country": "United States",
+      "Launches": 5,
+      "Successes": 5,
+      "Failures": 0
+    },
+    {
+      "Year": 2002,
+      "Rocket": "Delta",
+      "Country": "United States",
+      "Launches": 4,
+      "Successes": 3,
+      "Failures": 1
+    },
+    {
+      "Year": 2002,
+      "Rocket": "H-II",
+      "Country": "Japan",
+      "Launches": 3,
+      "Successes": 3,
+      "Failures": 0
+    },
+    {
+      "Year": 2002,
+      "Rocket": "Kaituozhe",
+      "Country": "China",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 2002,
+      "Rocket": "Long March",
+      "Country": "China",
+      "Launches": 4,
+      "Successes": 4,
+      "Failures": 0
+    },
+    {
+      "Year": 2002,
+      "Rocket": "Pegasus",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2002,
+      "Rocket": "PSLV",
+      "Country": "India",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2002,
+      "Rocket": "R-7",
+      "Country": "Russia",
+      "Launches": 9,
+      "Successes": 8,
+      "Failures": 1
+    },
+    {
+      "Year": 2002,
+      "Rocket": "R-14",
+      "Country": "Russia",
+      "Launches": 4,
+      "Successes": 4,
+      "Failures": 0
+    },
+    {
+      "Year": 2002,
+      "Rocket": "R-36",
+      "Country": "Ukraine",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2002,
+      "Rocket": "Shavit",
+      "Country": "Israel",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2002,
+      "Rocket": "Space Shuttle",
+      "Country": "United States",
+      "Launches": 5,
+      "Successes": 5,
+      "Failures": 0
+    },
+    {
+      "Year": 2002,
+      "Rocket": "Titan",
+      "Country": "United States",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2002,
+      "Rocket": "Universal Rocket",
+      "Country": "Russia",
+      "Launches": 11,
+      "Successes": 10,
+      "Failures": 1
+    },
+    {
+      "Year": 2002,
+      "Rocket": "Zenit",
+      "Country": "Ukraine",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2003,
+      "Rocket": "Ariane",
+      "Country": "Europe",
+      "Launches": 4,
+      "Successes": 4,
+      "Failures": 0
+    },
+    {
+      "Year": 2003,
+      "Rocket": "Atlas",
+      "Country": "United States",
+      "Launches": 5,
+      "Successes": 5,
+      "Failures": 0
+    },
+    {
+      "Year": 2003,
+      "Rocket": "Delta",
+      "Country": "United States",
+      "Launches": 9,
+      "Successes": 9,
+      "Failures": 0
+    },
+    {
+      "Year": 2003,
+      "Rocket": "GSLV",
+      "Country": "India",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2003,
+      "Rocket": "H-II",
+      "Country": "Japan",
+      "Launches": 2,
+      "Successes": 1,
+      "Failures": 1
+    },
+    {
+      "Year": 2003,
+      "Rocket": "Kaituozhe",
+      "Country": "China",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 2003,
+      "Rocket": "Long March",
+      "Country": "China",
+      "Launches": 6,
+      "Successes": 6,
+      "Failures": 0
+    },
+    {
+      "Year": 2003,
+      "Rocket": "Mu",
+      "Country": "Japan",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2003,
+      "Rocket": "Pegasus",
+      "Country": "United States",
+      "Launches": 4,
+      "Successes": 4,
+      "Failures": 0
+    },
+    {
+      "Year": 2003,
+      "Rocket": "PSLV",
+      "Country": "India",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2003,
+      "Rocket": "R-7",
+      "Country": "Russia",
+      "Launches": 10,
+      "Successes": 10,
+      "Failures": 0
+    },
+    {
+      "Year": 2003,
+      "Rocket": "R-14",
+      "Country": "Russia",
+      "Launches": 3,
+      "Successes": 3,
+      "Failures": 0
+    },
+    {
+      "Year": 2003,
+      "Rocket": "Space Shuttle",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 2003,
+      "Rocket": "Titan",
+      "Country": "United States",
+      "Launches": 4,
+      "Successes": 4,
+      "Failures": 0
+    },
+    {
+      "Year": 2003,
+      "Rocket": "Universal Rocket",
+      "Country": "Russia",
+      "Launches": 8,
+      "Successes": 8,
+      "Failures": 0
+    },
+    {
+      "Year": 2003,
+      "Rocket": "Zenit",
+      "Country": "Ukraine",
+      "Launches": 3,
+      "Successes": 3,
+      "Failures": 0
+    },
+    {
+      "Year": 2004,
+      "Rocket": "Ariane",
+      "Country": "Europe",
+      "Launches": 3,
+      "Successes": 3,
+      "Failures": 0
+    },
+    {
+      "Year": 2004,
+      "Rocket": "Atlas",
+      "Country": "United States",
+      "Launches": 6,
+      "Successes": 6,
+      "Failures": 0
+    },
+    {
+      "Year": 2004,
+      "Rocket": "Delta",
+      "Country": "United States",
+      "Launches": 8,
+      "Successes": 7,
+      "Failures": 0
+    },
+    {
+      "Year": 2004,
+      "Rocket": "GSLV",
+      "Country": "India",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2004,
+      "Rocket": "Long March",
+      "Country": "China",
+      "Launches": 8,
+      "Successes": 8,
+      "Failures": 0
+    },
+    {
+      "Year": 2004,
+      "Rocket": "Minotaur",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2004,
+      "Rocket": "R-7",
+      "Country": "Russia",
+      "Launches": 8,
+      "Successes": 8,
+      "Failures": 0
+    },
+    {
+      "Year": 2004,
+      "Rocket": "R-14",
+      "Country": "Russia",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2004,
+      "Rocket": "R-36",
+      "Country": "Ukraine",
+      "Launches": 3,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2004,
+      "Rocket": "Shavit",
+      "Country": "Israel",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 2004,
+      "Rocket": "Titan",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2004,
+      "Rocket": "Universal Rocket",
+      "Country": "Russia",
+      "Launches": 8,
+      "Successes": 8,
+      "Failures": 0
+    },
+    {
+      "Year": 2004,
+      "Rocket": "Zenit",
+      "Country": "Ukraine",
+      "Launches": 4,
+      "Successes": 3,
+      "Failures": 0
+    },
+    {
+      "Year": 2005,
+      "Rocket": "Ariane",
+      "Country": "Europe",
+      "Launches": 5,
+      "Successes": 5,
+      "Failures": 0
+    },
+    {
+      "Year": 2005,
+      "Rocket": "Atlas",
+      "Country": "United States",
+      "Launches": 3,
+      "Successes": 3,
+      "Failures": 0
+    },
+    {
+      "Year": 2005,
+      "Rocket": "Delta",
+      "Country": "United States",
+      "Launches": 3,
+      "Successes": 3,
+      "Failures": 0
+    },
+    {
+      "Year": 2005,
+      "Rocket": "H-II",
+      "Country": "Japan",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2005,
+      "Rocket": "Long March",
+      "Country": "China",
+      "Launches": 5,
+      "Successes": 5,
+      "Failures": 0
+    },
+    {
+      "Year": 2005,
+      "Rocket": "Minotaur",
+      "Country": "United States",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2005,
+      "Rocket": "Mu",
+      "Country": "Japan",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2005,
+      "Rocket": "Pegasus",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2005,
+      "Rocket": "PSLV",
+      "Country": "India",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2005,
+      "Rocket": "R-7",
+      "Country": "Russia",
+      "Launches": 12,
+      "Successes": 11,
+      "Failures": 1
+    },
+    {
+      "Year": 2005,
+      "Rocket": "R-14",
+      "Country": "Russia",
+      "Launches": 3,
+      "Successes": 3,
+      "Failures": 0
+    },
+    {
+      "Year": 2005,
+      "Rocket": "R-29",
+      "Country": "Russia",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 2005,
+      "Rocket": "R-36",
+      "Country": "Ukraine",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2005,
+      "Rocket": "Space Shuttle",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2005,
+      "Rocket": "Titan",
+      "Country": "United States",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2005,
+      "Rocket": "Universal Rocket",
+      "Country": "Russia",
+      "Launches": 9,
+      "Successes": 8,
+      "Failures": 1
+    },
+    {
+      "Year": 2005,
+      "Rocket": "Zenit",
+      "Country": "Ukraine",
+      "Launches": 4,
+      "Successes": 4,
+      "Failures": 0
+    },
+    {
+      "Year": 2006,
+      "Rocket": "Ariane",
+      "Country": "Europe",
+      "Launches": 5,
+      "Successes": 5,
+      "Failures": 0
+    },
+    {
+      "Year": 2006,
+      "Rocket": "Atlas",
+      "Country": "United States",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2006,
+      "Rocket": "Delta",
+      "Country": "United States",
+      "Launches": 9,
+      "Successes": 9,
+      "Failures": 0
+    },
+    {
+      "Year": 2006,
+      "Rocket": "Falcon",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 2006,
+      "Rocket": "GSLV",
+      "Country": "India",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 2006,
+      "Rocket": "H-II",
+      "Country": "Japan",
+      "Launches": 4,
+      "Successes": 4,
+      "Failures": 0
+    },
+    {
+      "Year": 2006,
+      "Rocket": "Long March",
+      "Country": "China",
+      "Launches": 6,
+      "Successes": 6,
+      "Failures": 0
+    },
+    {
+      "Year": 2006,
+      "Rocket": "Minotaur",
+      "Country": "United States",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2006,
+      "Rocket": "Mu",
+      "Country": "Japan",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2006,
+      "Rocket": "Pegasus",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2006,
+      "Rocket": "R-7",
+      "Country": "Russia",
+      "Launches": 12,
+      "Successes": 12,
+      "Failures": 0
+    },
+    {
+      "Year": 2006,
+      "Rocket": "R-14",
+      "Country": "Russia",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2006,
+      "Rocket": "R-29",
+      "Country": "Russia",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2006,
+      "Rocket": "R-36",
+      "Country": "Ukraine",
+      "Launches": 3,
+      "Successes": 2,
+      "Failures": 1
+    },
+    {
+      "Year": 2006,
+      "Rocket": "Space Shuttle",
+      "Country": "United States",
+      "Launches": 3,
+      "Successes": 3,
+      "Failures": 0
+    },
+    {
+      "Year": 2006,
+      "Rocket": "Topol",
+      "Country": "Russia",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2006,
+      "Rocket": "Unha",
+      "Country": "North Korea",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 2006,
+      "Rocket": "Universal Rocket",
+      "Country": "Russia",
+      "Launches": 7,
+      "Successes": 6,
+      "Failures": 1
+    },
+    {
+      "Year": 2006,
+      "Rocket": "Zenit",
+      "Country": "Ukraine",
+      "Launches": 5,
+      "Successes": 5,
+      "Failures": 0
+    },
+    {
+      "Year": 2007,
+      "Rocket": "Ariane",
+      "Country": "Europe",
+      "Launches": 6,
+      "Successes": 6,
+      "Failures": 0
+    },
+    {
+      "Year": 2007,
+      "Rocket": "Atlas",
+      "Country": "United States",
+      "Launches": 4,
+      "Successes": 3,
+      "Failures": 0
+    },
+    {
+      "Year": 2007,
+      "Rocket": "Delta",
+      "Country": "United States",
+      "Launches": 9,
+      "Successes": 9,
+      "Failures": 0
+    },
+    {
+      "Year": 2007,
+      "Rocket": "Falcon",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 2007,
+      "Rocket": "GSLV",
+      "Country": "India",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 0
+    },
+    {
+      "Year": 2007,
+      "Rocket": "H-II",
+      "Country": "Japan",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2007,
+      "Rocket": "Long March",
+      "Country": "China",
+      "Launches": 10,
+      "Successes": 10,
+      "Failures": 0
+    },
+    {
+      "Year": 2007,
+      "Rocket": "Minotaur",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2007,
+      "Rocket": "Pegasus",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2007,
+      "Rocket": "PSLV",
+      "Country": "India",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2007,
+      "Rocket": "R-7",
+      "Country": "Russia",
+      "Launches": 12,
+      "Successes": 12,
+      "Failures": 0
+    },
+    {
+      "Year": 2007,
+      "Rocket": "R-14",
+      "Country": "Russia",
+      "Launches": 3,
+      "Successes": 3,
+      "Failures": 0
+    },
+    {
+      "Year": 2007,
+      "Rocket": "R-36",
+      "Country": "Ukraine",
+      "Launches": 3,
+      "Successes": 3,
+      "Failures": 0
+    },
+    {
+      "Year": 2007,
+      "Rocket": "Shavit 2",
+      "Country": "Israel",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2007,
+      "Rocket": "Space Shuttle",
+      "Country": "United States",
+      "Launches": 3,
+      "Successes": 3,
+      "Failures": 0
+    },
+    {
+      "Year": 2007,
+      "Rocket": "Universal Rocket",
+      "Country": "Russia",
+      "Launches": 7,
+      "Successes": 6,
+      "Failures": 1
+    },
+    {
+      "Year": 2007,
+      "Rocket": "Zenit",
+      "Country": "Ukraine",
+      "Launches": 2,
+      "Successes": 1,
+      "Failures": 1
+    },
+    {
+      "Year": 2008,
+      "Rocket": "Ariane",
+      "Country": "Europe",
+      "Launches": 6,
+      "Successes": 6,
+      "Failures": 0
+    },
+    {
+      "Year": 2008,
+      "Rocket": "Atlas",
+      "Country": "United States",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2008,
+      "Rocket": "Delta",
+      "Country": "United States",
+      "Launches": 5,
+      "Successes": 5,
+      "Failures": 0
+    },
+    {
+      "Year": 2008,
+      "Rocket": "Falcon",
+      "Country": "United States",
+      "Launches": 2,
+      "Successes": 1,
+      "Failures": 1
+    },
+    {
+      "Year": 2008,
+      "Rocket": "H-II",
+      "Country": "Japan",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2008,
+      "Rocket": "Long March",
+      "Country": "China",
+      "Launches": 11,
+      "Successes": 11,
+      "Failures": 0
+    },
+    {
+      "Year": 2008,
+      "Rocket": "Pegasus",
+      "Country": "United States",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2008,
+      "Rocket": "PSLV",
+      "Country": "India",
+      "Launches": 3,
+      "Successes": 3,
+      "Failures": 0
+    },
+    {
+      "Year": 2008,
+      "Rocket": "R-7",
+      "Country": "Russia",
+      "Launches": 10,
+      "Successes": 10,
+      "Failures": 0
+    },
+    {
+      "Year": 2008,
+      "Rocket": "R-14",
+      "Country": "Russia",
+      "Launches": 3,
+      "Successes": 3,
+      "Failures": 0
+    },
+    {
+      "Year": 2008,
+      "Rocket": "R-36",
+      "Country": "Ukraine",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2008,
+      "Rocket": "Safir",
+      "Country": "Iran",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 2008,
+      "Rocket": "Space Shuttle",
+      "Country": "United States",
+      "Launches": 4,
+      "Successes": 4,
+      "Failures": 0
+    },
+    {
+      "Year": 2008,
+      "Rocket": "Universal Rocket",
+      "Country": "Russia",
+      "Launches": 11,
+      "Successes": 10,
+      "Failures": 0
+    },
+    {
+      "Year": 2008,
+      "Rocket": "Zenit",
+      "Country": "Ukraine",
+      "Launches": 6,
+      "Successes": 6,
+      "Failures": 0
+    },
+    {
+      "Year": 2009,
+      "Rocket": "Angara",
+      "Country": "Russia",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 2009,
+      "Rocket": "Ariane",
+      "Country": "Europe",
+      "Launches": 7,
+      "Successes": 7,
+      "Failures": 0
+    },
+    {
+      "Year": 2009,
+      "Rocket": "Atlas",
+      "Country": "United States",
+      "Launches": 5,
+      "Successes": 5,
+      "Failures": 0
+    },
+    {
+      "Year": 2009,
+      "Rocket": "Delta",
+      "Country": "United States",
+      "Launches": 11,
+      "Successes": 11,
+      "Failures": 0
+    },
+    {
+      "Year": 2009,
+      "Rocket": "Falcon",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2009,
+      "Rocket": "H-II",
+      "Country": "Japan",
+      "Launches": 3,
+      "Successes": 3,
+      "Failures": 0
+    },
+    {
+      "Year": 2009,
+      "Rocket": "Long March",
+      "Country": "China",
+      "Launches": 6,
+      "Successes": 5,
+      "Failures": 0
+    },
+    {
+      "Year": 2009,
+      "Rocket": "Minotaur",
+      "Country": "United States",
+      "Launches": 2,
+      "Successes": 1,
+      "Failures": 1
+    },
+    {
+      "Year": 2009,
+      "Rocket": "PSLV",
+      "Country": "India",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2009,
+      "Rocket": "R-7",
+      "Country": "Russia",
+      "Launches": 13,
+      "Successes": 12,
+      "Failures": 1
+    },
+    {
+      "Year": 2009,
+      "Rocket": "R-14",
+      "Country": "Russia",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2009,
+      "Rocket": "R-36",
+      "Country": "Ukraine",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2009,
+      "Rocket": "Safir",
+      "Country": "Iran",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2009,
+      "Rocket": "Space Shuttle",
+      "Country": "United States",
+      "Launches": 5,
+      "Successes": 5,
+      "Failures": 0
+    },
+    {
+      "Year": 2009,
+      "Rocket": "Unha",
+      "Country": "North Korea",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 2009,
+      "Rocket": "Universal Rocket",
+      "Country": "Russia",
+      "Launches": 13,
+      "Successes": 13,
+      "Failures": 0
+    },
+    {
+      "Year": 2009,
+      "Rocket": "Zenit",
+      "Country": "Ukraine",
+      "Launches": 4,
+      "Successes": 4,
+      "Failures": 0
+    },
+    {
+      "Year": 2010,
+      "Rocket": "Angara",
+      "Country": "Russia",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 2010,
+      "Rocket": "Ariane",
+      "Country": "Europe",
+      "Launches": 6,
+      "Successes": 6,
+      "Failures": 0
+    },
+    {
+      "Year": 2010,
+      "Rocket": "Atlas",
+      "Country": "United States",
+      "Launches": 4,
+      "Successes": 4,
+      "Failures": 0
+    },
+    {
+      "Year": 2010,
+      "Rocket": "Delta",
+      "Country": "United States",
+      "Launches": 4,
+      "Successes": 4,
+      "Failures": 0
+    },
+    {
+      "Year": 2010,
+      "Rocket": "Falcon",
+      "Country": "United States",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2010,
+      "Rocket": "GLSV",
+      "Country": "India",
+      "Launches": 2,
+      "Successes": 0,
+      "Failures": 2
+    },
+    {
+      "Year": 2010,
+      "Rocket": "H-II",
+      "Country": "Japan",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2010,
+      "Rocket": "Long March",
+      "Country": "China",
+      "Launches": 15,
+      "Successes": 15,
+      "Failures": 0
+    },
+    {
+      "Year": 2010,
+      "Rocket": "Minotaur",
+      "Country": "United States",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2010,
+      "Rocket": "PSLV",
+      "Country": "India",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2010,
+      "Rocket": "R-7",
+      "Country": "Russia",
+      "Launches": 13,
+      "Successes": 13,
+      "Failures": 0
+    },
+    {
+      "Year": 2010,
+      "Rocket": "R-14",
+      "Country": "Russia",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2010,
+      "Rocket": "R-36",
+      "Country": "Ukraine",
+      "Launches": 3,
+      "Successes": 3,
+      "Failures": 0
+    },
+    {
+      "Year": 2010,
+      "Rocket": "Shavit",
+      "Country": "Israel",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2010,
+      "Rocket": "Space Shuttle",
+      "Country": "United States",
+      "Launches": 3,
+      "Successes": 3,
+      "Failures": 0
+    },
+    {
+      "Year": 2010,
+      "Rocket": "Universal Rocket",
+      "Country": "Russia",
+      "Launches": 14,
+      "Successes": 13,
+      "Failures": 1
+    },
+    {
+      "Year": 2011,
+      "Rocket": "Ariane",
+      "Country": "Europe",
+      "Launches": 5,
+      "Successes": 5,
+      "Failures": 0
+    },
+    {
+      "Year": 2011,
+      "Rocket": "Atlas",
+      "Country": "United States",
+      "Launches": 5,
+      "Successes": 5,
+      "Failures": 0
+    },
+    {
+      "Year": 2011,
+      "Rocket": "Delta",
+      "Country": "United States",
+      "Launches": 6,
+      "Successes": 6,
+      "Failures": 0
+    },
+    {
+      "Year": 2011,
+      "Rocket": "H-II",
+      "Country": "Japan",
+      "Launches": 3,
+      "Successes": 3,
+      "Failures": 0
+    },
+    {
+      "Year": 2011,
+      "Rocket": "Long March",
+      "Country": "China",
+      "Launches": 19,
+      "Successes": 18,
+      "Failures": 1
+    },
+    {
+      "Year": 2011,
+      "Rocket": "Minotaur",
+      "Country": "United States",
+      "Launches": 4,
+      "Successes": 3,
+      "Failures": 1
+    },
+    {
+      "Year": 2011,
+      "Rocket": "PSLV",
+      "Country": "India",
+      "Launches": 3,
+      "Successes": 3,
+      "Failures": 0
+    },
+    {
+      "Year": 2011,
+      "Rocket": "R-7",
+      "Country": "Russia",
+      "Launches": 19,
+      "Successes": 17,
+      "Failures": 2
+    },
+    {
+      "Year": 2011,
+      "Rocket": "R-36",
+      "Country": "Ukraine",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2011,
+      "Rocket": "Safir",
+      "Country": "Iran",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2011,
+      "Rocket": "Space Shuttle",
+      "Country": "United States",
+      "Launches": 3,
+      "Successes": 3,
+      "Failures": 0
+    },
+    {
+      "Year": 2011,
+      "Rocket": "Universal Rocket",
+      "Country": "Russia",
+      "Launches": 10,
+      "Successes": 8,
+      "Failures": 2
+    },
+    {
+      "Year": 2011,
+      "Rocket": "Zenit",
+      "Country": "Ukraine",
+      "Launches": 5,
+      "Successes": 5,
+      "Failures": 0
+    },
+    {
+      "Year": 2012,
+      "Rocket": "Ariane",
+      "Country": "Europe",
+      "Launches": 7,
+      "Successes": 7,
+      "Failures": 0
+    },
+    {
+      "Year": 2012,
+      "Rocket": "Atlas",
+      "Country": "United States",
+      "Launches": 6,
+      "Successes": 6,
+      "Failures": 0
+    },
+    {
+      "Year": 2012,
+      "Rocket": "Delta",
+      "Country": "United States",
+      "Launches": 4,
+      "Successes": 4,
+      "Failures": 0
+    },
+    {
+      "Year": 2012,
+      "Rocket": "Falcon",
+      "Country": "United States",
+      "Launches": 2,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2012,
+      "Rocket": "H-II",
+      "Country": "Japan",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2012,
+      "Rocket": "Long March",
+      "Country": "China",
+      "Launches": 19,
+      "Successes": 19,
+      "Failures": 0
+    },
+    {
+      "Year": 2012,
+      "Rocket": "Pegasus",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2012,
+      "Rocket": "PSLV",
+      "Country": "India",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2012,
+      "Rocket": "R-7",
+      "Country": "Russia",
+      "Launches": 14,
+      "Successes": 14,
+      "Failures": 0
+    },
+    {
+      "Year": 2012,
+      "Rocket": "Safir",
+      "Country": "Iran",
+      "Launches": 2,
+      "Successes": 1,
+      "Failures": 1
+    },
+    {
+      "Year": 2012,
+      "Rocket": "Unha",
+      "Country": "North Korea",
+      "Launches": 2,
+      "Successes": 1,
+      "Failures": 1
+    },
+    {
+      "Year": 2012,
+      "Rocket": "Universal Rocket",
+      "Country": "Russia",
+      "Launches": 12,
+      "Successes": 10,
+      "Failures": 1
+    },
+    {
+      "Year": 2012,
+      "Rocket": "Vega",
+      "Country": "Europe",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2012,
+      "Rocket": "Zenit",
+      "Country": "Ukraine",
+      "Launches": 3,
+      "Successes": 3,
+      "Failures": 0
+    },
+    {
+      "Year": 2013,
+      "Rocket": "Angara",
+      "Country": "Russia",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2013,
+      "Rocket": "Antares",
+      "Country": "United States",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2013,
+      "Rocket": "Ariane",
+      "Country": "Europe",
+      "Launches": 4,
+      "Successes": 4,
+      "Failures": 0
+    },
+    {
+      "Year": 2013,
+      "Rocket": "Atlas",
+      "Country": "United States",
+      "Launches": 8,
+      "Successes": 8,
+      "Failures": 0
+    },
+    {
+      "Year": 2013,
+      "Rocket": "Delta",
+      "Country": "United States",
+      "Launches": 3,
+      "Successes": 3,
+      "Failures": 0
+    },
+    {
+      "Year": 2013,
+      "Rocket": "Epsilon",
+      "Country": "Japan",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2013,
+      "Rocket": "Falcon",
+      "Country": "United States",
+      "Launches": 3,
+      "Successes": 3,
+      "Failures": 0
+    },
+    {
+      "Year": 2013,
+      "Rocket": "H-II",
+      "Country": "Japan",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2013,
+      "Rocket": "Kuaizhou",
+      "Country": "China",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2013,
+      "Rocket": "Long March",
+      "Country": "China",
+      "Launches": 14,
+      "Successes": 13,
+      "Failures": 1
+    },
+    {
+      "Year": 2013,
+      "Rocket": "Minotaur",
+      "Country": "United States",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2013,
+      "Rocket": "Pegasus",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2013,
+      "Rocket": "PSLV",
+      "Country": "India",
+      "Launches": 3,
+      "Successes": 3,
+      "Failures": 0
+    },
+    {
+      "Year": 2013,
+      "Rocket": "R-7",
+      "Country": "Russia",
+      "Launches": 16,
+      "Successes": 16,
+      "Failures": 0
+    },
+    {
+      "Year": 2013,
+      "Rocket": "R-36",
+      "Country": "Ukraine",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2013,
+      "Rocket": "Universal Rocket",
+      "Country": "Russia",
+      "Launches": 15,
+      "Successes": 13,
+      "Failures": 1
+    },
+    {
+      "Year": 2013,
+      "Rocket": "Vega",
+      "Country": "Europe",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2013,
+      "Rocket": "Zenit",
+      "Country": "Ukraine",
+      "Launches": 2,
+      "Successes": 1,
+      "Failures": 1
+    },
+    {
+      "Year": 2014,
+      "Rocket": "Angara",
+      "Country": "Russia",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2014,
+      "Rocket": "Antares",
+      "Country": "United States",
+      "Launches": 3,
+      "Successes": 2,
+      "Failures": 1
+    },
+    {
+      "Year": 2014,
+      "Rocket": "Ariane",
+      "Country": "Europe",
+      "Launches": 6,
+      "Successes": 6,
+      "Failures": 0
+    },
+    {
+      "Year": 2014,
+      "Rocket": "Atlas",
+      "Country": "United States",
+      "Launches": 9,
+      "Successes": 9,
+      "Failures": 0
+    },
+    {
+      "Year": 2014,
+      "Rocket": "Delta",
+      "Country": "United States",
+      "Launches": 5,
+      "Successes": 5,
+      "Failures": 0
+    },
+    {
+      "Year": 2014,
+      "Rocket": "Falcon",
+      "Country": "United States",
+      "Launches": 6,
+      "Successes": 6,
+      "Failures": 0
+    },
+    {
+      "Year": 2014,
+      "Rocket": "GSLV",
+      "Country": "India",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2014,
+      "Rocket": "H-II",
+      "Country": "Japan",
+      "Launches": 4,
+      "Successes": 4,
+      "Failures": 0
+    },
+    {
+      "Year": 2014,
+      "Rocket": "Kuaizhou",
+      "Country": "China",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2014,
+      "Rocket": "Long March",
+      "Country": "China",
+      "Launches": 15,
+      "Successes": 15,
+      "Failures": 0
+    },
+    {
+      "Year": 2014,
+      "Rocket": "PSLV",
+      "Country": "India",
+      "Launches": 3,
+      "Successes": 3,
+      "Failures": 0
+    },
+    {
+      "Year": 2014,
+      "Rocket": "R-7",
+      "Country": "Russia",
+      "Launches": 22,
+      "Successes": 21,
+      "Failures": 0
+    },
+    {
+      "Year": 2014,
+      "Rocket": "R-36",
+      "Country": "Ukraine",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2014,
+      "Rocket": "Shavit",
+      "Country": "Israel",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2014,
+      "Rocket": "Universal Rocket",
+      "Country": "Russia",
+      "Launches": 11,
+      "Successes": 9,
+      "Failures": 1
+    },
+    {
+      "Year": 2014,
+      "Rocket": "Vega",
+      "Country": "Europe",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2014,
+      "Rocket": "Zenit",
+      "Country": "Ukraine",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2015,
+      "Rocket": "Ariane",
+      "Country": "Europe",
+      "Launches": 6,
+      "Successes": 6,
+      "Failures": 0
+    },
+    {
+      "Year": 2015,
+      "Rocket": "Atlas",
+      "Country": "United States",
+      "Launches": 9,
+      "Successes": 9,
+      "Failures": 0
+    },
+    {
+      "Year": 2015,
+      "Rocket": "Delta",
+      "Country": "United States",
+      "Launches": 3,
+      "Successes": 3,
+      "Failures": 0
+    },
+    {
+      "Year": 2015,
+      "Rocket": "Falcon",
+      "Country": "United States",
+      "Launches": 7,
+      "Successes": 6,
+      "Failures": 1
+    },
+    {
+      "Year": 2015,
+      "Rocket": "GSLV",
+      "Country": "India",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2015,
+      "Rocket": "H-II",
+      "Country": "Japan",
+      "Launches": 4,
+      "Successes": 4,
+      "Failures": 0
+    },
+    {
+      "Year": 2015,
+      "Rocket": "Long March",
+      "Country": "China",
+      "Launches": 19,
+      "Successes": 19,
+      "Failures": 0
+    },
+    {
+      "Year": 2015,
+      "Rocket": "PSLV",
+      "Country": "India",
+      "Launches": 4,
+      "Successes": 4,
+      "Failures": 0
+    },
+    {
+      "Year": 2015,
+      "Rocket": "R-7",
+      "Country": "Russia",
+      "Launches": 17,
+      "Successes": 15,
+      "Failures": 1
+    },
+    {
+      "Year": 2015,
+      "Rocket": "R-36",
+      "Country": "Ukraine",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2015,
+      "Rocket": "Safir",
+      "Country": "Iran",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2015,
+      "Rocket": "Strypi",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 2015,
+      "Rocket": "Universal Rocket",
+      "Country": "Russia",
+      "Launches": 10,
+      "Successes": 9,
+      "Failures": 1
+    },
+    {
+      "Year": 2015,
+      "Rocket": "Vega",
+      "Country": "Europe",
+      "Launches": 3,
+      "Successes": 3,
+      "Failures": 0
+    },
+    {
+      "Year": 2015,
+      "Rocket": "Zenit",
+      "Country": "Ukraine",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2016,
+      "Rocket": "Antares",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2016,
+      "Rocket": "Ariane",
+      "Country": "Europe",
+      "Launches": 7,
+      "Successes": 7,
+      "Failures": 0
+    },
+    {
+      "Year": 2016,
+      "Rocket": "Atlas",
+      "Country": "United States",
+      "Launches": 8,
+      "Successes": 8,
+      "Failures": 0
+    },
+    {
+      "Year": 2016,
+      "Rocket": "Delta",
+      "Country": "United States",
+      "Launches": 4,
+      "Successes": 4,
+      "Failures": 0
+    },
+    {
+      "Year": 2016,
+      "Rocket": "Epsilon",
+      "Country": "Japan",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2016,
+      "Rocket": "Falcon",
+      "Country": "United States",
+      "Launches": 8,
+      "Successes": 8,
+      "Failures": 0
+    },
+    {
+      "Year": 2016,
+      "Rocket": "GSLV",
+      "Country": "India",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2016,
+      "Rocket": "H-II",
+      "Country": "Japan",
+      "Launches": 3,
+      "Successes": 3,
+      "Failures": 0
+    },
+    {
+      "Year": 2016,
+      "Rocket": "Long March",
+      "Country": "China",
+      "Launches": 22,
+      "Successes": 20,
+      "Failures": 1
+    },
+    {
+      "Year": 2016,
+      "Rocket": "Pegasus",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2016,
+      "Rocket": "PSLV",
+      "Country": "India",
+      "Launches": 6,
+      "Successes": 6,
+      "Failures": 0
+    },
+    {
+      "Year": 2016,
+      "Rocket": "R-7",
+      "Country": "Russia",
+      "Launches": 14,
+      "Successes": 13,
+      "Failures": 1
+    },
+    {
+      "Year": 2016,
+      "Rocket": "Shavit",
+      "Country": "Israel",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2016,
+      "Rocket": "Unha",
+      "Country": "North Korea",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2016,
+      "Rocket": "Universal Rocket",
+      "Country": "Russia",
+      "Launches": 5,
+      "Successes": 5,
+      "Failures": 0
+    },
+    {
+      "Year": 2016,
+      "Rocket": "Vega",
+      "Country": "Europe",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2017,
+      "Rocket": "Antares",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2017,
+      "Rocket": "Ariane",
+      "Country": "Europe",
+      "Launches": 6,
+      "Successes": 6,
+      "Failures": 0
+    },
+    {
+      "Year": 2017,
+      "Rocket": "Atlas",
+      "Country": "United States",
+      "Launches": 6,
+      "Successes": 6,
+      "Failures": 0
+    },
+    {
+      "Year": 2017,
+      "Rocket": "Delta",
+      "Country": "United States",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2017,
+      "Rocket": "Electron",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 2017,
+      "Rocket": "Falcon",
+      "Country": "United States",
+      "Launches": 18,
+      "Successes": 18,
+      "Failures": 0
+    },
+    {
+      "Year": 2017,
+      "Rocket": "GSLV",
+      "Country": "India",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2017,
+      "Rocket": "GSLV Mk III",
+      "Country": "India",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2017,
+      "Rocket": "H-II",
+      "Country": "Japan",
+      "Launches": 6,
+      "Successes": 6,
+      "Failures": 0
+    },
+    {
+      "Year": 2017,
+      "Rocket": "Kaituozhe",
+      "Country": "China",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2017,
+      "Rocket": "Kuaizhou",
+      "Country": "China",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2017,
+      "Rocket": "Long March",
+      "Country": "China",
+      "Launches": 16,
+      "Successes": 14,
+      "Failures": 1
+    },
+    {
+      "Year": 2017,
+      "Rocket": "Minotaur",
+      "Country": "United States",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2017,
+      "Rocket": "PSLV",
+      "Country": "India",
+      "Launches": 3,
+      "Successes": 2,
+      "Failures": 1
+    },
+    {
+      "Year": 2017,
+      "Rocket": "R-7",
+      "Country": "Russia",
+      "Launches": 15,
+      "Successes": 13,
+      "Failures": 1
+    },
+    {
+      "Year": 2017,
+      "Rocket": "S-Series",
+      "Country": "Japan",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 2017,
+      "Rocket": "Simorgh",
+      "Country": "Iran",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 2017,
+      "Rocket": "Universal Rocket",
+      "Country": "Russia",
+      "Launches": 5,
+      "Successes": 5,
+      "Failures": 0
+    },
+    {
+      "Year": 2017,
+      "Rocket": "Vega",
+      "Country": "Europe",
+      "Launches": 3,
+      "Successes": 3,
+      "Failures": 0
+    },
+    {
+      "Year": 2017,
+      "Rocket": "Zenit",
+      "Country": "Ukraine",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2018,
+      "Rocket": "Antares",
+      "Country": "United States",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2018,
+      "Rocket": "Ariane",
+      "Country": "Europe",
+      "Launches": 6,
+      "Successes": 5,
+      "Failures": 0
+    },
+    {
+      "Year": 2018,
+      "Rocket": "Atlas",
+      "Country": "United States",
+      "Launches": 5,
+      "Successes": 5,
+      "Failures": 0
+    },
+    {
+      "Year": 2018,
+      "Rocket": "Delta",
+      "Country": "United States",
+      "Launches": 3,
+      "Successes": 3,
+      "Failures": 0
+    },
+    {
+      "Year": 2018,
+      "Rocket": "Electron",
+      "Country": "United States",
+      "Launches": 3,
+      "Successes": 3,
+      "Failures": 0
+    },
+    {
+      "Year": 2018,
+      "Rocket": "Epsilon",
+      "Country": "Japan",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2018,
+      "Rocket": "Falcon",
+      "Country": "United States",
+      "Launches": 21,
+      "Successes": 21,
+      "Failures": 0
+    },
+    {
+      "Year": 2018,
+      "Rocket": "GSLV",
+      "Country": "India",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2018,
+      "Rocket": "GSLV Mk III",
+      "Country": "India",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2018,
+      "Rocket": "H-II",
+      "Country": "Japan",
+      "Launches": 4,
+      "Successes": 4,
+      "Failures": 0
+    },
+    {
+      "Year": 2018,
+      "Rocket": "Kuaizhou",
+      "Country": "China",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2018,
+      "Rocket": "Long March",
+      "Country": "China",
+      "Launches": 37,
+      "Successes": 37,
+      "Failures": 0
+    },
+    {
+      "Year": 2018,
+      "Rocket": "PSLV",
+      "Country": "India",
+      "Launches": 4,
+      "Successes": 4,
+      "Failures": 0
+    },
+    {
+      "Year": 2018,
+      "Rocket": "R-7",
+      "Country": "Russia",
+      "Launches": 16,
+      "Successes": 15,
+      "Failures": 1
+    },
+    {
+      "Year": 2018,
+      "Rocket": "S-Series",
+      "Country": "Japan",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2018,
+      "Rocket": "Universal Rocket",
+      "Country": "Russia",
+      "Launches": 4,
+      "Successes": 4,
+      "Failures": 0
+    },
+    {
+      "Year": 2018,
+      "Rocket": "Vega",
+      "Country": "Europe",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2018,
+      "Rocket": "Zhuque",
+      "Country": "China",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 2019,
+      "Rocket": "Antares",
+      "Country": "United States",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2019,
+      "Rocket": "Ariane",
+      "Country": "Europe",
+      "Launches": 4,
+      "Successes": 4,
+      "Failures": 0
+    },
+    {
+      "Year": 2019,
+      "Rocket": "Atlas",
+      "Country": "United States",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2019,
+      "Rocket": "Delta",
+      "Country": "United States",
+      "Launches": 3,
+      "Successes": 3,
+      "Failures": 0
+    },
+    {
+      "Year": 2019,
+      "Rocket": "Electron",
+      "Country": "United States",
+      "Launches": 6,
+      "Successes": 6,
+      "Failures": 0
+    },
+    {
+      "Year": 2019,
+      "Rocket": "Epsilon",
+      "Country": "Japan",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2019,
+      "Rocket": "Falcon",
+      "Country": "United States",
+      "Launches": 13,
+      "Successes": 13,
+      "Failures": 0
+    },
+    {
+      "Year": 2019,
+      "Rocket": "GLSV Mk III",
+      "Country": "India",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2019,
+      "Rocket": "H-II",
+      "Country": "Japan",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2019,
+      "Rocket": "Hyperbola",
+      "Country": "China",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2019,
+      "Rocket": "Jielong",
+      "Country": "China",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2019,
+      "Rocket": "Kuaizhou",
+      "Country": "China",
+      "Launches": 5,
+      "Successes": 5,
+      "Failures": 0
+    },
+    {
+      "Year": 2019,
+      "Rocket": "Long March",
+      "Country": "China",
+      "Launches": 26,
+      "Successes": 25,
+      "Failures": 1
+    },
+    {
+      "Year": 2019,
+      "Rocket": "Pegasus",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2019,
+      "Rocket": "OneSpace",
+      "Country": "China",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 2019,
+      "Rocket": "PSLV",
+      "Country": "India",
+      "Launches": 5,
+      "Successes": 5,
+      "Failures": 0
+    },
+    {
+      "Year": 2019,
+      "Rocket": "R-7",
+      "Country": "Russia",
+      "Launches": 18,
+      "Successes": 18,
+      "Failures": 0
+    },
+    {
+      "Year": 2019,
+      "Rocket": "Safir",
+      "Country": "Iran",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 2019,
+      "Rocket": "Simorgh",
+      "Country": "Iran",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 2019,
+      "Rocket": "Universal Rocket",
+      "Country": "Russia",
+      "Launches": 7,
+      "Successes": 7,
+      "Failures": 0
+    },
+    {
+      "Year": 2019,
+      "Rocket": "Vega",
+      "Country": "Europe",
+      "Launches": 2,
+      "Successes": 1,
+      "Failures": 1
+    },
+    {
+      "Year": 2020,
+      "Rocket": "Angara",
+      "Country": "Russia",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2020,
+      "Rocket": "Antares",
+      "Country": "United States",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2020,
+      "Rocket": "Ariane",
+      "Country": "Europe",
+      "Launches": 3,
+      "Successes": 3,
+      "Failures": 0
+    },
+    {
+      "Year": 2020,
+      "Rocket": "Astra",
+      "Country": "United States",
+      "Launches": 2,
+      "Successes": 0,
+      "Failures": 2
+    },
+    {
+      "Year": 2020,
+      "Rocket": "Atlas",
+      "Country": "United States",
+      "Launches": 5,
+      "Successes": 5,
+      "Failures": 0
+    },
+    {
+      "Year": 2020,
+      "Rocket": "Ceres",
+      "Country": "China",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2020,
+      "Rocket": "Delta",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2020,
+      "Rocket": "Electron",
+      "Country": "United States",
+      "Launches": 7,
+      "Successes": 6,
+      "Failures": 1
+    },
+    {
+      "Year": 2020,
+      "Rocket": "Falcon",
+      "Country": "United States",
+      "Launches": 25,
+      "Successes": 25,
+      "Failures": 0
+    },
+    {
+      "Year": 2020,
+      "Rocket": "H-II",
+      "Country": "Japan",
+      "Launches": 4,
+      "Successes": 4,
+      "Failures": 0
+    },
+    {
+      "Year": 2020,
+      "Rocket": "Kuaizhou",
+      "Country": "China",
+      "Launches": 4,
+      "Successes": 2,
+      "Failures": 2
+    },
+    {
+      "Year": 2020,
+      "Rocket": "LauncherOne",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 2020,
+      "Rocket": "Long March",
+      "Country": "China",
+      "Launches": 34,
+      "Successes": 32,
+      "Failures": 2
+    },
+    {
+      "Year": 2020,
+      "Rocket": "Minotaur",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2020,
+      "Rocket": "PSLV",
+      "Country": "India",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2020,
+      "Rocket": "R-7",
+      "Country": "Russia",
+      "Launches": 15,
+      "Successes": 15,
+      "Failures": 0
+    },
+    {
+      "Year": 2020,
+      "Rocket": "Safir",
+      "Country": "Iran",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2020,
+      "Rocket": "Shavit 2",
+      "Country": "Israel",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2020,
+      "Rocket": "Simorgh",
+      "Country": "Iran",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 2020,
+      "Rocket": "Universal Rocket",
+      "Country": "Russia",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2020,
+      "Rocket": "Vega",
+      "Country": "Europe",
+      "Launches": 2,
+      "Successes": 1,
+      "Failures": 1
+    },
+    {
+      "Year": 2021,
+      "Rocket": "Angara",
+      "Country": "Russia",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 0
+    },
+    {
+      "Year": 2021,
+      "Rocket": "Antares",
+      "Country": "United States",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2021,
+      "Rocket": "Ariane",
+      "Country": "Europe",
+      "Launches": 3,
+      "Successes": 3,
+      "Failures": 0
+    },
+    {
+      "Year": 2021,
+      "Rocket": "Astra",
+      "Country": "United States",
+      "Launches": 2,
+      "Successes": 1,
+      "Failures": 1
+    },
+    {
+      "Year": 2021,
+      "Rocket": "Atlas",
+      "Country": "United States",
+      "Launches": 4,
+      "Successes": 4,
+      "Failures": 0
+    },
+    {
+      "Year": 2021,
+      "Rocket": "Ceres",
+      "Country": "China",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2021,
+      "Rocket": "Delta",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2021,
+      "Rocket": "Electron",
+      "Country": "United States",
+      "Launches": 6,
+      "Successes": 5,
+      "Failures": 1
+    },
+    {
+      "Year": 2021,
+      "Rocket": "Epsilon",
+      "Country": "Japan",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2021,
+      "Rocket": "Falcon",
+      "Country": "United States",
+      "Launches": 31,
+      "Successes": 31,
+      "Failures": 0
+    },
+    {
+      "Year": 2021,
+      "Rocket": "Firefly",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 2021,
+      "Rocket": "GSLV",
+      "Country": "India",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 2021,
+      "Rocket": "H-II",
+      "Country": "Japan",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2021,
+      "Rocket": "Hyperbola",
+      "Country": "China",
+      "Launches": 2,
+      "Successes": 0,
+      "Failures": 2
+    },
+    {
+      "Year": 2021,
+      "Rocket": "Kuaizhou",
+      "Country": "People's Republic of China",
+      "Launches": 4,
+      "Successes": 3,
+      "Failures": 1
+    },
+    {
+      "Year": 2021,
+      "Rocket": "LauncherOne",
+      "Country": "United States",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2021,
+      "Rocket": "Long March",
+      "Country": "China",
+      "Launches": 49,
+      "Successes": 49,
+      "Failures": 0
+    },
+    {
+      "Year": 2021,
+      "Rocket": "Minotaur",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2021,
+      "Rocket": "Nuri",
+      "Country": "South Korea",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 2021,
+      "Rocket": "Pegasus",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2021,
+      "Rocket": "PSLV",
+      "Country": "India",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2021,
+      "Rocket": "R-7",
+      "Country": "Russia",
+      "Launches": 22,
+      "Successes": 22,
+      "Failures": 0
+    },
+    {
+      "Year": 2021,
+      "Rocket": "Simorgh",
+      "Country": "Iran",
+      "Launches": 2,
+      "Successes": 0,
+      "Failures": 2
+    },
+    {
+      "Year": 2021,
+      "Rocket": "Universal Rocket",
+      "Country": "Russia",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2021,
+      "Rocket": "Vega",
+      "Country": "Europe",
+      "Launches": 3,
+      "Successes": 3,
+      "Failures": 0
+    },
+    {
+      "Year": 2022,
+      "Rocket": "Angara",
+      "Country": "Russia",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2022,
+      "Rocket": "Antares",
+      "Country": "United States",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2022,
+      "Rocket": "Ariane",
+      "Country": "Europe",
+      "Launches": 3,
+      "Successes": 3,
+      "Failures": 0
+    },
+    {
+      "Year": 2022,
+      "Rocket": "Astra",
+      "Country": "United States",
+      "Launches": 3,
+      "Successes": 1,
+      "Failures": 2
+    },
+    {
+      "Year": 2022,
+      "Rocket": "Atlas",
+      "Country": "United States",
+      "Launches": 7,
+      "Successes": 7,
+      "Failures": 0
+    },
+    {
+      "Year": 2022,
+      "Rocket": "Ceres",
+      "Country": "China",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2022,
+      "Rocket": "Delta",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2022,
+      "Rocket": "Electron",
+      "Country": "United States",
+      "Launches": 9,
+      "Successes": 9,
+      "Failures": 0
+    },
+    {
+      "Year": 2022,
+      "Rocket": "Epsilon",
+      "Country": "Japan",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 2022,
+      "Rocket": "Falcon",
+      "Country": "United States",
+      "Launches": 61,
+      "Successes": 61,
+      "Failures": 0
+    },
+    {
+      "Year": 2022,
+      "Rocket": "Firefly",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 0
+    },
+    {
+      "Year": 2022,
+      "Rocket": "Hyperbola",
+      "Country": "China",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 2022,
+      "Rocket": "Jielong",
+      "Country": "China",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2022,
+      "Rocket": "Kinetica",
+      "Country": "China",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2022,
+      "Rocket": "Kuaizhou",
+      "Country": "China",
+      "Launches": 5,
+      "Successes": 5,
+      "Failures": 0
+    },
+    {
+      "Year": 2022,
+      "Rocket": "LauncherOne",
+      "Country": "United States",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2022,
+      "Rocket": "Long March",
+      "Country": "China",
+      "Launches": 53,
+      "Successes": 53,
+      "Failures": 0
+    },
+    {
+      "Year": 2022,
+      "Rocket": "LVM 3",
+      "Country": "India",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2022,
+      "Rocket": "Nuri",
+      "Country": "South Korea",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2022,
+      "Rocket": "PSLV",
+      "Country": "India",
+      "Launches": 3,
+      "Successes": 3,
+      "Failures": 0
+    },
+    {
+      "Year": 2022,
+      "Rocket": "R-7",
+      "Country": "Russia",
+      "Launches": 19,
+      "Successes": 19,
+      "Failures": 0
+    },
+    {
+      "Year": 2022,
+      "Rocket": "Safir",
+      "Country": "Iran",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2022,
+      "Rocket": "SSLV",
+      "Country": "India",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 2022,
+      "Rocket": "SLS",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2022,
+      "Rocket": "UR",
+      "Country": "Russia",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2022,
+      "Rocket": "Vega",
+      "Country": "Europe",
+      "Launches": 2,
+      "Successes": 1,
+      "Failures": 1
+    },
+    {
+      "Year": 2022,
+      "Rocket": "Zhuque",
+      "Country": "China",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 2023,
+      "Rocket": "Antares",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2023,
+      "Rocket": "Ariane",
+      "Country": "Europe",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2023,
+      "Rocket": "Atlas",
+      "Country": "United States",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2023,
+      "Rocket": "Ceres",
+      "Country": "China",
+      "Launches": 7,
+      "Successes": 6,
+      "Failures": 1
+    },
+    {
+      "Year": 2023,
+      "Rocket": "Chŏllima",
+      "Country": "North Korea",
+      "Launches": 3,
+      "Successes": 1,
+      "Failures": 2
+    },
+    {
+      "Year": 2023,
+      "Rocket": "Delta",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2023,
+      "Rocket": "Electron",
+      "Country": "United States",
+      "Launches": 9,
+      "Successes": 8,
+      "Failures": 1
+    },
+    {
+      "Year": 2023,
+      "Rocket": "Falcon",
+      "Country": "United States",
+      "Launches": 96,
+      "Successes": 96,
+      "Failures": 0
+    },
+    {
+      "Year": 2023,
+      "Rocket": "Firefly",
+      "Country": "United States",
+      "Launches": 2,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2023,
+      "Rocket": "GSLV",
+      "Country": "India",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2023,
+      "Rocket": "H-series",
+      "Country": "Japan",
+      "Launches": 3,
+      "Successes": 2,
+      "Failures": 1
+    },
+    {
+      "Year": 2023,
+      "Rocket": "Hyperbola",
+      "Country": "China",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2023,
+      "Rocket": "Jielong",
+      "Country": "China",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2023,
+      "Rocket": "Kinetika",
+      "Country": "China",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2023,
+      "Rocket": "Kuaizhou",
+      "Country": "China",
+      "Launches": 6,
+      "Successes": 6,
+      "Failures": 0
+    },
+    {
+      "Year": 2023,
+      "Rocket": "LauncherOne",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 2023,
+      "Rocket": "Long March",
+      "Country": "China",
+      "Launches": 47,
+      "Successes": 47,
+      "Failures": 0
+    },
+    {
+      "Year": 2023,
+      "Rocket": "LVM 3",
+      "Country": "India",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2023,
+      "Rocket": "Nuri",
+      "Country": "South Korea",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2023,
+      "Rocket": "PSLV",
+      "Country": "India",
+      "Launches": 3,
+      "Successes": 3,
+      "Failures": 0
+    },
+    {
+      "Year": 2023,
+      "Rocket": "Qaem",
+      "Country": "Iran",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 2023,
+      "Rocket": "RS1",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 2023,
+      "Rocket": "R-7",
+      "Country": "Russia",
+      "Launches": 17,
+      "Successes": 17,
+      "Failures": 0
+    },
+    {
+      "Year": 2023,
+      "Rocket": "Safir",
+      "Country": "Iran",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2023,
+      "Rocket": "Shavit",
+      "Country": "Israel",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2023,
+      "Rocket": "SK solid fueled LV",
+      "Country": "South Korea",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2023,
+      "Rocket": "SSLV",
+      "Country": "India",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2023,
+      "Rocket": "Starship",
+      "Country": "United States",
+      "Launches": 2,
+      "Successes": 0,
+      "Failures": 2
+    },
+    {
+      "Year": 2023,
+      "Rocket": "Terran",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 2023,
+      "Rocket": "Tianlong",
+      "Country": "China",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2023,
+      "Rocket": "UR",
+      "Country": "Russia",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2023,
+      "Rocket": "Vega",
+      "Country": "Europe",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2023,
+      "Rocket": "Zhuque",
+      "Country": "China",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2024,
+      "Rocket": "Angara",
+      "Country": "Russia",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2024,
+      "Rocket": "Ariane",
+      "Country": "Europe",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 0
+    },
+    {
+      "Year": 2024,
+      "Rocket": "Atlas",
+      "Country": "United States",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2024,
+      "Rocket": "Ceres",
+      "Country": "China",
+      "Launches": 4,
+      "Successes": 4,
+      "Failures": 0
+    },
+    {
+      "Year": 2024,
+      "Rocket": "Delta",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2024,
+      "Rocket": "Electron",
+      "Country": "United States",
+      "Launches": 13,
+      "Successes": 13,
+      "Failures": 0
+    },
+    {
+      "Year": 2024,
+      "Rocket": "Falcon",
+      "Country": "United States",
+      "Launches": 127,
+      "Successes": 126,
+      "Failures": 1
+    },
+    {
+      "Year": 2024,
+      "Rocket": "Firefly",
+      "Country": "United States",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2024,
+      "Rocket": "Gravity",
+      "Country": "China",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    },
+    {
+      "Year": 2024,
+      "Rocket": "H-series",
+      "Country": "Japan",
+      "Launches": 5,
+      "Successes": 5,
+      "Failures": 0
+    },
+    {
+      "Year": 2024,
+      "Rocket": "Hyperbola",
+      "Country": "China",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 2024,
+      "Rocket": "ILV",
+      "Country": "India",
+      "Launches": 4,
+      "Successes": 4,
+      "Failures": 0
+    },
+    {
+      "Year": 2024,
+      "Rocket": "Jielong",
+      "Country": "China",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2024,
+      "Rocket": "KAIROS",
+      "Country": "Japan",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 2024,
+      "Rocket": "Kinetica",
+      "Country": "China",
+      "Launches": 3,
+      "Successes": 3,
+      "Failures": 0
+    },
+    {
+      "Year": 2024,
+      "Rocket": "Kuaizhou",
+      "Country": "China",
+      "Launches": 5,
+      "Successes": 5,
+      "Failures": 0
+    },
+    {
+      "Year": 2024,
+      "Rocket": "Long March",
+      "Country": "China",
+      "Launches": 48,
+      "Successes": 47,
+      "Failures": 0
+    },
+    {
+      "Year": 2024,
+      "Rocket": "New-type satellite carrier rocket",
+      "Country": "North Korea",
+      "Launches": 1,
+      "Successes": 0,
+      "Failures": 1
+    },
+    {
+      "Year": 2024,
+      "Rocket": "Qaem",
+      "Country": "Iran",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2024,
+      "Rocket": "R-7",
+      "Country": "Russia",
+      "Launches": 14,
+      "Successes": 14,
+      "Failures": 0
+    },
+    {
+      "Year": 2024,
+      "Rocket": "Simorgh",
+      "Country": "Iran",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2024,
+      "Rocket": "Starship",
+      "Country": "United States",
+      "Launches": 4,
+      "Successes": 4,
+      "Failures": 0
+    },
+    {
+      "Year": 2024,
+      "Rocket": "Vega",
+      "Country": "Europe",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2024,
+      "Rocket": "Vulcan",
+      "Country": "United States",
+      "Launches": 2,
+      "Successes": 2,
+      "Failures": 0
+    },
+    {
+      "Year": 2024,
+      "Rocket": "Zhuque",
+      "Country": "China",
+      "Launches": 1,
+      "Successes": 1,
+      "Failures": 0
+    }
+  ]

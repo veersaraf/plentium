@@ -1,0 +1,65 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer components {
+    .main {
+        @apply absolute top-0 left-0 w-full h-full p-2 flex 
+    }
+    .frame { 
+        @apply w-full border-[--primary-border] border h-full md:flex
+    }
+    .frame-content {
+        @apply h-[calc(100%-80px)] md:h-full flex-1 py-7 relative pb-10 md:pt-3 overflow-auto px-2 sm:px-4
+    }
+    .frame-bar {
+        @apply md:w-[215px] relative md:pt-10 md:h-full w-full flex md:block border-t border-t-[--primary-border] md:border-t-0 md:border-l md:border-l-[--primary-border]
+    }
+    .frame-button {
+        @apply h-[80px] w-[105px] md:w-full border-t bg-[--primary-text] border-t-[--primary-border] flex uppercase items-center justify-center text-[35px] font-a1
+    }
+    .loading-page {
+        @apply absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 flex items-center justify-center text-[--secondary-text] font-planer-m text-[25px] md:text-[70px]
+    }
+
+
+    .navbar-box {
+        @apply py-2 px-3 cursor-default text-[--secondary-text] hover:text-[--primary-text] text-[11px] uppercase font-a1
+    }
+    .title {
+        @apply text-[40px] sm:text-[55px] md:text-[65px] w-fit text-[--primary-text] font-a1 md:leading-[65px] md:h-[75px]
+    }
+    .description {
+        @apply text-[15px] sm:w-[75%] text-[--primary-text] leading-6 font-a1 mt-2 h-auto
+    }
+    .tag {
+        @apply text-[11px] uppercase px-4 text-[--secondary-text] font-a1 flex items-center cursor-default
+    }
+    .tag-box {
+        @apply w-2.5 h-2.5 inline-flex bg-[--primary-text] mr-2
+    }
+
+ 
+    .chart {
+        @apply py-3 overflow-auto flex-col flex bg-[--primary-chart-bg] rounded-[--primary-radius]
+    }
+    .chart-title {
+        @apply text-[17px] font-a1 mx-3 rounded-[--primary-radius] w-fit text-[--primary-text]
+    }
+    .chart-desc {
+        @apply text-[14.5px] mt-0 px-3 sm:mt-3 font-a1 lg:w-[55%] text-[#aaaaaa]
+    }
+    .chart-number {
+        @apply text-[30px] md:text-[40px] font-a1 pl-3 text-[#aaaaaa] whitespace-nowrap
+    }
+    .chart-data {
+        @apply text-[30px] px-6 text-right font-a1 text-[--primary-text]
+    }
+    .chart-data-span {
+        @apply text-[11px] text-[--primary-text] pl-2 font-a1 inline-flex items-end gap-1
+    }
+    .acc-span {
+        @apply text-[--primary-text]
+    }
+}

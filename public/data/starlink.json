@@ -1,0 +1,102 @@
+{
+    "Satellites":[
+        {
+            "Year": 2019,
+            "Launched": 60,
+            "In Orbit": 55,
+            "Deorbited": 5
+        },
+        {
+            "Year": 2020,
+            "Launched": 1015,
+            "In Orbit": 960,
+            "Deorbited": 55
+        },
+        {
+            "Year": 2021,
+            "Launched": 1945,
+            "In Orbit": 1870,
+            "Deorbited": 75
+        },
+        {
+            "Year": 2022,
+            "Launched": 3715,
+            "In Orbit": 3600,
+            "Deorbited": 115
+        },
+        {
+            "Year": 2023,
+            "Launched": 5865,
+            "In Orbit": 5500,
+            "Deorbited": 365
+        },
+        {
+            "Year": 2024,
+            "Launched": 7568,
+            "In Orbit": 6886,
+            "Deorbited": 729
+        }
+    ],    
+    "Subscribers": [
+          {
+            "Month": "01-02-2021",
+            "Subscribers": 10000
+          },
+          {
+            "Month": "01-06-2021",
+            "Subscribers": 100000
+          },
+          {
+            "Month": "01-11-2021",
+            "Subscribers": 140000
+          },
+          {
+            "Month": "01-02-2022",
+            "Subscribers": 250000
+          },
+          {
+            "Month": "01-05-2022",
+            "Subscribers": 400000
+          },
+          {
+            "Month": "01-06-2022",
+            "Subscribers": 500000
+          },
+          {
+            "Month": "01-09-2022",
+            "Subscribers": 700000
+          },
+          {
+            "Month": "01-12-2022",
+            "Subscribers": 1000000
+          },
+          {
+            "Month": "01-05-2023",
+            "Subscribers": 1500000
+          },
+          {
+            "Month": "01-09-2023",
+            "Subscribers": 2000000
+          },
+          {
+            "Month": "01-12-2023",
+            "Subscribers": 2200000
+          },
+          {
+            "Month": "01-03-2024",
+            "Subscribers": 2600000
+          },
+          {
+            "Month": "01-04-2024",
+            "Subscribers": 2700000
+          },
+          {
+            "Month": "01-05-2024",
+            "Subscribers": 3000000
+          },
+          {
+            "Month": "01-09-2024",
+            "Subscribers": 4000000
+          }
+        ]    
+} 
