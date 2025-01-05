@@ -29,9 +29,9 @@ export default function Home() {
             <div className='absolute bottom-4 px-3 w-full'>
               <InViewFade initialDelay={500}><TextRevealWipe className='title mt-7'>Welcome to,</TextRevealWipe></InViewFade>
               <div className='h-[80px] items-center flex w-full'>
-                  <InViewFade initialDelay={1000}><TextRevealWipe delay={1} className='title'>Outer</TextRevealWipe></InViewFade>
+                  <InViewFade initialDelay={1000}><TextRevealWipe delay={1} className='title'>Plentium</TextRevealWipe></InViewFade>
                   <motion.div initial={{opacity: 0}} animate={{opacity: 1, transition: {delay: 2, duration: 0.6}}}><EarthIcon className='stroke-[#837e77] hover:stroke-[--primary-text] mt-4 w-fit' size={65}/></motion.div>
-                  <TextRevealWipe delay={1.3} className='title'>Reach</TextRevealWipe>
+            
               </div>
               <InViewFade initialDelay={2500} className='description'>A positive, unified and factual way to look at the progress and contribution of humanity's frontier technologies that are leading us to a world of abundance</InViewFade>
             </div>
