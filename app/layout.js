@@ -5,9 +5,9 @@ import { Analytics } from "@vercel/analytics/react"
 
 const inter = Inter({ subsets: ['latin'] })
 
-const title = 'OUTER REACH'
+const title = 'Plentium'
 const description = "Where the bells of progress ring"
-const url = 'https://outerreach.xyz/'
+const url = 'https://plentium.xyz/'
 const image =`${url}og.png`
 
 export const metadata = {
