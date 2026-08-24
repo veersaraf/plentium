@@ -69,3 +69,7 @@ public/data/       the curated datasets behind the charts and maps
 ## Status & credits
 
 A solo project by **[Veer Saraf](https://github.com/veersaraf)**, started 2024. It's a design- and data-forward passion piece about technological optimism — the frontier-tech abundance thesis, made visual.
+
+## License
+
+MIT — see [LICENSE](LICENSE).
