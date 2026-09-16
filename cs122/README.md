@@ -1,17 +1,17 @@
-# Plentium
+# {Team name} — energy abundance, in numbers
 
 **CS 122-04 · Advanced Programming with Python · Fall 2026**  
-Team repo: `plentium-owid-energy`
+Intended org repo: `{teamname}-owid-energy`
 
 A Python project that tests the *energy abundance* thesis with public data: do countries that consume more energy, and more nuclear/renewable electricity, actually look more prosperous in the numbers?
-
-Live design inspiration (not the graded codebase): [plentium.vercel.app](https://plentium.vercel.app)
 
 ## Team
 
 - Veer Saraf
 - *[Add teammate 2]*
 - *[Add teammate 3 if applicable]*
+
+**Name options (pick one):** Frontier Facts · Wattward · Amply · Cleargrid · Joulerise
 
 ## Dataset
 

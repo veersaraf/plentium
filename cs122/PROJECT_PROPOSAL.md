@@ -2,11 +2,12 @@
 **CS 122-04 · Advanced Programming with Python · Fall 2026**  
 Team Submission for Project Assignment #1
 
-**Canvas Google Doc:** [CS 122-04 Project Proposal — Team Plentium](https://docs.google.com/document/d/1P5el4z14J5S7dQVx1oTMN2lw8GZLxelpZ1kZehxoqsI/edit)
+**Canvas Google Doc:** [CS 122-04 Project Proposal](https://docs.google.com/document/d/1P5el4z14J5S7dQVx1oTMN2lw8GZLxelpZ1kZehxoqsI/edit)
 
 ## Team Introduction
 
-**Team Name:** Plentium
+**Team Name:** *[pick one before Canvas submit — see naming options]*  
+Working options (repo = `teamname-owid-energy`): **Frontier Facts**, **Wattward**, **Amply**, **Cleargrid**, **Joulerise**
 
 **Team Members:**
 - Veer Saraf
@@ -47,7 +48,7 @@ Supporting public sources we may join later (also free, not required for the fir
 Is the world actually moving toward *energy abundance* — more useful, cleaner, more reliable energy per person — or is the popular story of decline a better fit for the numbers? Which countries have raised living standards while shifting away from coal and oil, and what roles do nuclear, hydro, solar, and wind play in that shift?
 
 **High-Level Goal:**  
-By the end of the semester we will ship a **Python** product, not a JavaScript one: pandas notebooks for exploration, a cleaned SQLite database, seaborn/matplotlib charts, unit tests, and a small Flask app where a user can pick a country and see energy mix, per-capita use, and clean-energy share over time. That app is the CS 122 implementation of **Plentium** — a factual, optimistic look at frontier energy progress. A prior personal Next.js prototype by Veer exists only as design inspiration; **all graded code will be new Python** aligned with this course (pandas, visualization, databases, Flask, tests).
+By the end of the semester we will ship a **Python** product: pandas notebooks for exploration, a cleaned SQLite database, seaborn/matplotlib charts, unit tests, and a small Flask app where a user can pick a country and see energy mix, per-capita use, and clean-energy share over time. The point of the product is a factual, optimistic look at frontier energy progress — more useful energy per person, and a cleaner mix, as something you can measure. A prior personal Next.js prototype by Veer exists only as design inspiration; **all graded code will be new Python** aligned with this course (pandas, visualization, databases, Flask, tests).
 
 **Potential Users:**  
 Students and instructors in this class, plus anyone who wants a numbers-first view of energy progress — journalists, policy-curious readers, and classmates comparing countries they care about.
@@ -60,10 +61,18 @@ Students and instructors in this class, plus anyone who wants a numbers-first vi
 
 ## Repository Setup
 
-**GitHub Repo Link:** *To be created in the course org* → [https://github.com/CS122-04-FA26/plentium-owid-energy](https://github.com/CS122-04-FA26/plentium-owid-energy)
+**GitHub Repo Link:** *To be created in the course org* as `https://github.com/CS122-04-FA26/{teamname}-owid-energy`
 
-**Repo Name:** `plentium-owid-energy`  
+**Repo Name:** `{teamname}-owid-energy`  
 (naming convention: `teamname-dataset-theme`)
+
+| Team name | Repo name |
+|---|---|
+| Frontier Facts | `frontierfacts-owid-energy` |
+| Wattward | `wattward-owid-energy` |
+| Amply | `amply-owid-energy` |
+| Cleargrid | `cleargrid-owid-energy` |
+| Joulerise | `joulerise-owid-energy` |
 
 **Repo Structure (initial):**
 - `README.md` — project title, team members, dataset description
