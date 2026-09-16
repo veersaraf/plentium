@@ -1,0 +1,44 @@
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Environment / secrets
+.env
+.env.*
+
+# Data files (download locally; do not commit)
+data/raw/
+data/processed/
+*.csv
+*.tsv
+*.xlsx
+*.db
+*.sqlite3
+*.parquet
+
+# Keep instruction files
+!data/README.md
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Flask
+instance/
+.webassets-cache
