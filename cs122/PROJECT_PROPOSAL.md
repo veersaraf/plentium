@@ -1,7 +1,7 @@
 # Project Proposal
 Team Submission for Project Assignment #1
 
-**Google Doc:** https://docs.google.com/document/d/19zjeI0rYYKL9YKL1F9Vge2TmZPnFLSHEi8rxdcB7whI/edit
+**Google Doc:** https://docs.google.com/document/d/1R4RPTu96wVLdMqVu9bi4hfcNUgwjB_ZN4-4gniueDjE/edit
 
 ## Team Introduction
 
