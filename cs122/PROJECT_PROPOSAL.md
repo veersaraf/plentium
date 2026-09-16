@@ -1,82 +1,48 @@
 # Project Proposal
-**CS 122-04 · Advanced Programming with Python · Fall 2026**  
 Team Submission for Project Assignment #1
 
-**Canvas Google Doc:** [CS 122-04 Project Proposal](https://docs.google.com/document/d/1P5el4z14J5S7dQVx1oTMN2lw8GZLxelpZ1kZehxoqsI/edit)
+**Google Doc:** https://docs.google.com/document/d/1HULUrKy1hcfpxDIMIk0XbJBPA2FaR8IoXcvSCvPQXtA/edit
 
 ## Team Introduction
 
-**Team Name:** *[pick one before Canvas submit — see naming options]*  
-Working options (repo = `teamname-owid-energy`): **Frontier Facts**, **Wattward**, **Amply**, **Cleargrid**, **Joulerise**
+**Team Name:** Frontier Facts
 
 **Team Members:**
 - Veer Saraf
-- *[Add Canvas group member 2]*
-- *[Add Canvas group member 3, if the group is three]*
+- [Name]
+- [Name]
 
-**Team Motto:** Measure the frontier.
+**Team Motto:** A positive, unified, and factual way to look at humanity's frontier technologies — the ones carrying us toward a world of abundance.
 
 ## Dataset Choice & Justification
 
-**Dataset Title:** Our World in Data — Complete Energy Dataset
+**Dataset Title:** Our World in Data Energy Dataset
 
-**Source Link:** [https://github.com/owid/energy-data](https://github.com/owid/energy-data)  
-**CSV download:** [https://github.com/owid/energy-data/raw/master/owid-energy-data.csv](https://github.com/owid/energy-data/raw/master/owid-energy-data.csv)  
-**Codebook:** [https://github.com/owid/energy-data/blob/master/owid-energy-codebook.csv](https://github.com/owid/energy-data/blob/master/owid-energy-codebook.csv)
+**Source Link:** https://github.com/owid/energy-data
 
-**License:** Creative Commons BY (free for public use with attribution)
+**Size/Scope:** About 23,000 rows, 130 columns, 9 MB. It covers 300+ countries from 1900 to 2025. A lot of cells are empty, so we will have to clean it.
 
-**Size / Scope:**
-- 23,377 country-year rows × 130 columns (~8.9 MB CSV)
-- 314 countries and regions; years 1900–2025
-- About 66% empty cells in the current file (missingness is real, not a download error)
-- After melting metric columns into long format, the table expands to on the order of **3 million** observations — well above the lecture guideline of ≥ 100,000 rows or equivalent size/complexity
+**Description:** The file shows how much energy each country uses each year, and where that energy comes from (coal, oil, gas, nuclear, hydro, solar, wind, and others). It also includes population and GDP.
 
-**Description:**  
-Each row is one geographic entity and year. Columns cover primary energy consumption, electricity generation, fuel shares (coal, oil, gas, hydro, nuclear, solar, wind, biofuel), per-capita measures, year-over-year change, population, and GDP. Our World in Data curates the file from the Energy Institute *Statistical Review of World Energy*, Ember yearly electricity data, and related public sources, and publishes a codebook for every column.
-
-**Justification:**  
-This dataset is a good fit for CS 122 because it is public, well documented, and messy in the ways the course actually grades: missing values, mixed units, country vs. region aggregates, and a wide table that has to be cleaned before it is useful. It is also meaningful. Energy use is tightly tied to living standards, and the mix of fossil fuels versus nuclear and renewables is one of the central public questions of the decade. The file is large enough to require pandas (not a spreadsheet), small enough to keep on a laptop, and structured so we can store a cleaned subset in SQLite and serve it from Flask. We will not commit the CSV to GitHub; the `data/` folder will contain download instructions only.
-
-Supporting public sources we may join later (also free, not required for the first milestone):
-- [Cost of space launches to LEO (CSIS / Our World in Data)](https://ourworldindata.org/grapher/cost-space-launches-low-earth-orbit)
-- IAEA PRIS reactor and waste statistics, if we add a nuclear chapter
+**Justification:** We want to see if the world is getting more energy, and cleaner energy, over time. This dataset is public and free. It is interesting because energy is what makes modern life possible, and the numbers are often left out of the conversation. It is big and messy enough that we need Python, not a spreadsheet.
 
 ## Vision Statement
 
-**Problem / Question:**  
-Is the world actually moving toward *energy abundance* — more useful, cleaner, more reliable energy per person — or is the popular story of decline a better fit for the numbers? Which countries have raised living standards while shifting away from coal and oil, and what roles do nuclear, hydro, solar, and wind play in that shift?
+**Problem/Question:** Is the world moving toward a world of abundance? Are people getting more energy, and is more of it coming from sources like nuclear, solar, and wind?
 
-**High-Level Goal:**  
-By the end of the semester we will ship a **Python** product: pandas notebooks for exploration, a cleaned SQLite database, seaborn/matplotlib charts, unit tests, and a small Flask app where a user can pick a country and see energy mix, per-capita use, and clean-energy share over time. The point of the product is a factual, optimistic look at frontier energy progress — more useful energy per person, and a cleaner mix, as something you can measure. A prior personal Next.js prototype by Veer exists only as design inspiration; **all graded code will be new Python** aligned with this course (pandas, visualization, databases, Flask, tests).
+**High-Level Goal:** Build a Python program that loads this data, cleans it, and lets someone pick a country and see the story in simple charts. Same idea as the motto: a positive, unified, and factual way to look at the frontier technologies leading us to abundance.
 
-**Potential Users:**  
-Students and instructors in this class, plus anyone who wants a numbers-first view of energy progress — journalists, policy-curious readers, and classmates comparing countries they care about.
-
-**End goals (flexible, for planning):**
-1. Load, clean, and reshape the OWID energy file, including missing-value handling.
-2. Answer the abundance question with charts and summary tables.
-3. Expose the cleaned data through a Flask explorer (and SQLite).
-4. Stretch: a nuclear and/or space chapter using additional public tables.
+**Potential Users:** Classmates, and anyone who wants a clear look at energy progress without the usual doom-and-gloom framing.
 
 ## Repository Setup
 
-**GitHub Repo Link:** *To be created in the course org* as `https://github.com/CS122-04-FA26/{teamname}-owid-energy`
+**GitHub Repo Link:** https://github.com/CS122-04-FA26/frontier-facts-owid-energy *(create this in the course org)*
 
-**Repo Name:** `{teamname}-owid-energy`  
-(naming convention: `teamname-dataset-theme`)
-
-| Team name | Repo name |
-|---|---|
-| Frontier Facts | `frontierfacts-owid-energy` |
-| Wattward | `wattward-owid-energy` |
-| Amply | `amply-owid-energy` |
-| Cleargrid | `cleargrid-owid-energy` |
-| Joulerise | `joulerise-owid-energy` |
+**Repo Name:** `frontier-facts-owid-energy`
 
 **Repo Structure (initial):**
-- `README.md` — project title, team members, dataset description
-- `data/` — download instructions only (no raw CSV)
-- `notebooks/` — exploratory analysis (to be added)
-- `src/` — Python source (to be added)
-- `.gitignore` — Python, virtualenv, `.env`, data files
+- `README.md` – project overview
+- `data/` – download instructions
+- `notebooks/` – exploratory analysis notebooks (to be added)
+- `src/` – source code (to be added)
+- `.gitignore` – standard ignores
