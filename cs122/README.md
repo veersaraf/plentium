@@ -1,7 +1,7 @@
 # Frontier Facts
 
 **CS 122-04 · Fall 2026**  
-Repo name: `frontier-facts-owid-energy`
+Repo name: `frontier-facts-ember-energy`
 
 A positive, unified, and factual way to look at humanity's frontier technologies — the ones carrying us toward a world of abundance.
 
@@ -11,14 +11,14 @@ A positive, unified, and factual way to look at humanity's frontier technologies
 - [Name]
 - [Name]
 
-## Dataset
+## Datasets
 
-**Our World in Data Energy Dataset** (public, free)
+Do not commit the data files. See [`data/README.md`](data/README.md).
 
-- Source: https://github.com/owid/energy-data
-- See [`data/README.md`](data/README.md) for how to download it. Do not commit the data file.
-
-The dataset shows how much energy countries use, and where it comes from, from 1900 to 2025.
+1. **Ember Monthly Electricity Data** (main, ~515,000 rows)  
+   https://ember-energy.org/data/monthly-electricity-data/
+2. **Our World in Data Energy Dataset** (yearly energy, population, GDP)  
+   https://github.com/owid/energy-data
 
 ## Project structure
 
