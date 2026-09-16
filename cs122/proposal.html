@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  body {
+    font-family: Georgia, "Times New Roman", serif;
+    color: #1c1b19;
+    font-size: 11pt;
+    line-height: 1.35;
+  }
+  .kicker {
+    font-family: Calibri, Arial, sans-serif;
+    color: #042f2e;
+    font-size: 9pt;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+  h1 {
+    font-family: Georgia, "Times New Roman", serif;
+    color: #042f2e;
+    font-size: 28pt;
+    font-weight: normal;
+    margin: 4pt 0 2pt 0;
+  }
+  .sub {
+    font-family: Calibri, Arial, sans-serif;
+    color: #6e6963;
+    font-size: 11pt;
+    margin: 0 0 12pt 0;
+  }
+  h2 {
+    font-family: Calibri, Arial, sans-serif;
+    color: #042f2e;
+    font-size: 10.5pt;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    border-bottom: 1pt solid #042f2e;
+    padding-bottom: 4pt;
+    margin-top: 16pt;
+    margin-bottom: 8pt;
+  }
+  blockquote {
+    background: #f4f4e4;
+    border-left: 3pt solid #042f2e;
+    padding: 10pt 12pt;
+    margin: 8pt 0 14pt 0;
+    font-style: italic;
+    font-size: 12pt;
+    color: #1c1b19;
+  }
+  p { margin: 4pt 0 8pt 0; }
+  .label {
+    font-family: Calibri, Arial, sans-serif;
+    color: #6e6963;
+    font-size: 9.5pt;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 6pt 0 12pt 0;
+  }
+  th {
+    background: #042f2e;
+    color: #f4f4e4;
+    font-family: Calibri, Arial, sans-serif;
+    font-size: 9pt;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    text-align: left;
+    padding: 7pt 8pt;
+  }
+  td {
+    border: 0.5pt solid #e4dfd4;
+    padding: 7pt 8pt;
+    vertical-align: top;
+    font-size: 10pt;
+  }
+  td.k {
+    font-family: Calibri, Arial, sans-serif;
+    color: #042f2e;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 9pt;
+    letter-spacing: 0.06em;
+    width: 18%;
+    background: #f7f4ec;
+  }
+  .note {
+    color: #6e6963;
+    font-size: 10pt;
+  }
+  a { color: #042f2e; }
+</style>
+</head>
+<body>
+
+<p class="kicker">Project Assignment #1 &nbsp;&middot;&nbsp; CS 122-04 &nbsp;&middot;&nbsp; Fall 2026</p>
+<h1>Frontier Facts</h1>
+<p class="sub">Project Proposal &nbsp;&middot;&nbsp; Advanced Programming with Python</p>
+
+<blockquote>A positive, unified, and factual way to look at humanity&rsquo;s frontier technologies &mdash; the ones carrying us toward a world of abundance.</blockquote>
+
+<h2>01 &nbsp; Team</h2>
+<p><span class="label">Team name</span><br>Frontier Facts</p>
+<p><span class="label">Members</span><br>Veer Saraf &nbsp;&middot;&nbsp; [Name] &nbsp;&middot;&nbsp; [Name]</p>
+<p><span class="label">Motto</span><br>The line above. That is the whole point of the project.</p>
+
+<h2>02 &nbsp; Dataset</h2>
+<p>Two public, free files. The large one is Ember&rsquo;s monthly electricity data. The smaller one is Our World in Data&rsquo;s yearly energy file, which adds population and GDP.</p>
+
+<table>
+  <tr>
+    <th></th>
+    <th>Ember &nbsp;&middot;&nbsp; main</th>
+    <th>Our World in Data &nbsp;&middot;&nbsp; supporting</th>
+  </tr>
+  <tr>
+    <td class="k">What it is</td>
+    <td>Monthly electricity by fuel &mdash; nuclear, solar, wind, coal, gas</td>
+    <td>Yearly energy use, population, and GDP</td>
+  </tr>
+  <tr>
+    <td class="k">Size</td>
+    <td>About 515,000 rows &nbsp;&middot;&nbsp; 67 MB</td>
+    <td>About 23,000 rows &nbsp;&middot;&nbsp; 9 MB</td>
+  </tr>
+  <tr>
+    <td class="k">Coverage</td>
+    <td>About 100 countries, 1999&ndash;2026</td>
+    <td>300+ countries, 1900&ndash;2025</td>
+  </tr>
+  <tr>
+    <td class="k">Why we need it</td>
+    <td>Large enough for the class. Lets us watch nuclear, solar, and wind rise month by month.</td>
+    <td>Lets us ask whether countries that use more energy also look better off.</td>
+  </tr>
+  <tr>
+    <td class="k">Link</td>
+    <td><a href="https://ember-energy.org/data/monthly-electricity-data/">ember-energy.org/data/monthly-electricity-data</a></td>
+    <td><a href="https://github.com/owid/energy-data">github.com/owid/energy-data</a></td>
+  </tr>
+</table>
+
+<p class="note">Ember file (direct): <a href="https://storage.googleapis.com/emb-prod-bkt-publicdata/public-downloads/monthly_full_release_long_format.csv">monthly_full_release_long_format.csv</a></p>
+<p>Each Ember row is one country, one month, and one number. We will not put the data files in GitHub. The repo will only have download instructions.</p>
+
+<h2>03 &nbsp; Vision</h2>
+<p><span class="label">Question</span><br>Is the world moving toward a world of abundance? Are people getting more electricity, and is more of it coming from nuclear, solar, and wind?</p>
+<p><span class="label">Goal</span><br>A Python program that loads this data, cleans it, and lets someone pick a country and see the story in simple charts.</p>
+<p><span class="label">Users</span><br>Classmates, and anyone who wants a clear look at energy progress without the usual doom-and-gloom framing.</p>
+
+<h2>04 &nbsp; Repository</h2>
+<p><span class="label">Repo name</span><br>frontier-facts-ember-energy</p>
+<p><span class="label">Link</span><br><a href="https://github.com/CS122-04-FA26/frontier-facts-ember-energy">https://github.com/CS122-04-FA26/frontier-facts-ember-energy</a></p>
+<p class="note">Create this under the CS 122 GitHub organization. Naming follows teamname-dataset-theme.</p>
+
+<table>
+  <tr>
+    <th>File</th>
+    <th>What it is for</th>
+  </tr>
+  <tr>
+    <td class="k">README.md</td>
+    <td>Project title, team, datasets</td>
+  </tr>
+  <tr>
+    <td class="k">data/</td>
+    <td>Download instructions only &mdash; no raw files</td>
+  </tr>
+  <tr>
+    <td class="k">notebooks/</td>
+    <td>Exploratory analysis, to be added</td>
+  </tr>
+  <tr>
+    <td class="k">src/</td>
+    <td>Python source, to be added</td>
+  </tr>
+  <tr>
+    <td class="k">.gitignore</td>
+    <td>Ignore data files, virtualenv, secrets</td>
+  </tr>
+</table>
+
+</body>
+</html>
